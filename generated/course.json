@@ -21,9 +21,9 @@
   },
   "topics": [
     {
-      "title": "Intoduction",
+      "title": "DeFi Introduction",
       "key": "intoduction",
-      "details": "Asset Tokenization\n",
+      "details": "This chapter explains what is\n1. Decentralized Currency\n2. What is Blockchain\n3. Modern Day Use cases\n4. Financial Infrastructure\n5. Integrated System",
       "order": 0,
       "explanations": [],
       "questions": [],

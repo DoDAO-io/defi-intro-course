@@ -40,9 +40,14 @@ details: >+
 duration: 30 mins - 1 hour
 topics:
   - key: intoduction
-    title: Intoduction
-    details: |
-      Asset Tokenization
+    title: DeFi Introduction
+    details: |-
+      This chapter explains what is
+      1. Decentralized Currency
+      2. What is Blockchain
+      3. Modern Day Use cases
+      4. Financial Infrastructure
+      5. Integrated System
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
