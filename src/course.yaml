@@ -1,0 +1,44 @@
+title: Intro to DeFi
+key: into-to-defi
+summary: >
+  This is an introductory course to DeFi
+highlights:
+  - DeFi Introduction
+  - Blockchain Basics
+  - Coins and Tokens
+  - TradFi vs CeFi vs DeFi
+  - Wallets
+publishStatus: Live
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/asset_tokenization_course.png
+details: >+
+  Asset tokenization is the process of converting rights to an asset, such as
+  real estate or art, into a digital token on a blockchain. This token can then
+  be bought, sold, and traded on a blockchain-based marketplace, similar to how
+  stocks are traded on a stock exchange. By tokenizing assets, it allows for
+  fractional ownership and increased liquidity, as well as enabling new
+  investment opportunities for investors.
+
+
+  In this course we will study
+
+  1) Chapter 1 - Introduction - Benefits and Drawbacks of Tokenization
+
+  2) Chapter 2 - Securitize Platform
+
+  3) Chapter 3 - Coming soon
+
+  4) Chapter 4 - Coming soon 
+
+
+duration: 30 mins - 1 hour
+topics:
+  - key: intoduction
+    title: Intoduction
+    details: |
+      Asset Tokenization
+courseAdmins: []
+coursePassContent: Pass content of Course !!!!!!!!!!
+topicConfig:
+  showExplanations: false
+  showHints: false
