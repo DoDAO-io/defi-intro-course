@@ -167,7 +167,14 @@
       "key": "tradfi-vs-cefi-vs-defi",
       "title": "TradFi vs CeFi vs DeFi",
       "details": "- TradFi - TradFi stands for \"Traditional Finance\", which refers to the traditional financial services and institutions, such as banks, insurance companies, and investment firms, that have been around for many decades. \n- CeFi - Centralized exchanges (CEXs) in the cryptocurrency world operate on the premise that all crypto trading transactions are managed and executed through a central platform in the realm of centralized finance. Notable examples of centralized finance companies include Binance, Coinbase, and Kraken.\n- DeFi - DeFi, short for Decentralized Finance, refers to financial applications that operate without the need for intermediaries like banks and brokerages. These applications are powered by smart contracts, which are computer codes that automatically execute based on predefined conditions.\n",
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "tradfi",
+          "shortTitle": "TradFi",
+          "details": "### Advantages\nAdvantages of Traditional Finance:\n- Has a rich and established history\n- Proven and reliable systems\n- Offers a broad range of options in a single platform\n\n### Disadvantages\nDisadvantages of Traditional Finance:\n- Incurs costly and extensive fees\n- Transactions can be slow and tedious\n- Relies on inflationary currencies.",
+          "title": "TradFi"
+        }
+      ],
       "readings": [],
       "summaries": [],
       "questions": []

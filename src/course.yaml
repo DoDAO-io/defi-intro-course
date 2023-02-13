@@ -123,6 +123,7 @@ topics:
       and brokerages. These applications are powered by smart contracts, which
       are computer codes that automatically execute based on predefined
       conditions.
+    explanations: tradfi-vs-cefi-vs-defi.yaml
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
