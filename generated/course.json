@@ -71,7 +71,14 @@
       "key": "blockchain-intro",
       "title": "Blockchain Intro",
       "details": "Blockchain is a decentralized digital ledger that records transactions across a network of computers. Each block in the chain contains a cryptographic hash of the previous block, a timestamp, and transaction data. The decentralized nature of the technology ensures that no single party has control over the data and makes it resistant to tampering and revision, making it a secure way of storing and transmitting information. This technology forms the backbone of cryptocurrencies like Bitcoin but has potential applications in a variety of industries, including finance, supply chain management, and voting systems.\n\nIn this chapter we will study\n1. Intro To Blockchain\n2. Blockchain Ledger\n3. Hashing\n4. Transactions\n5. Smart Contracts\n\n",
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "what-is-blockchain-1",
+          "shortTitle": "What is Blockchain?",
+          "details": "Blockchain is a decentralized, distributed digital ledger that records transactions across a network of computers. Transactions are verified and recorded through cryptography, making it nearly impossible for any one user to alter the record retroactively without being detected by the network. The result is a system that is transparent, secure, and resistant to censorship, and one that allows multiple parties to have a shared and consistent view of a database without requiring a central authority. This makes it particularly useful for applications such as cryptocurrencies, digital contracts, and other applications that require a secure and transparent way of tracking transactions.\n\n",
+          "title": "What is Blockchain?"
+        }
+      ],
       "readings": [],
       "summaries": [],
       "questions": []

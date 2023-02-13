@@ -1,0 +1,15 @@
+- key: what-is-blockchain
+  title: What is Blockchain?
+  shortTitle: What is Blockchain?
+  details: >+
+    Blockchain is a decentralized, distributed digital ledger that records
+    transactions across a network of computers. Transactions are verified and
+    recorded through cryptography, making it nearly impossible for any one user
+    to alter the record retroactively without being detected by the network. The
+    result is a system that is transparent, secure, and resistant to censorship,
+    and one that allows multiple parties to have a shared and consistent view of
+    a database without requiring a central authority. This makes it particularly
+    useful for applications such as cryptocurrencies, digital contracts, and
+    other applications that require a secure and transparent way of tracking
+    transactions.
+
