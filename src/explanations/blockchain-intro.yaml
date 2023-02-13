@@ -112,3 +112,37 @@
     the address is recorded on the blockchain.
 
   title: Transactions
+- key: smart-contracts
+  shortTitle: Smart Contracts
+  details: >-
+    Smart contracts are self-executing contracts with the terms of the agreement
+    directly written into code. They are a fundamental building block of
+    blockchain technology and are used to automate the process of executing the
+    terms of a contract when certain conditions are met.
+
+
+    Smart contracts are stored on the blockchain and are executed automatically
+    by the network. They are transparent, secure, and tamper-proof, as the code
+    and terms of the contract are visible to everyone on the network.
+
+
+    Once a smart contract is deployed on the blockchain, it can be used to
+    automate various processes, such as:
+
+
+    - Transferring funds between parties when certain conditions are met, such
+    as the delivery of a product or the completion of a task.
+
+    - Managing the ownership of assets, such as real estate or art.
+
+    - Automating the process of voting, by counting votes automatically and
+    transparently.
+
+    - Enforcing the terms of an agreement, such as an insurance policy or a loan
+    agreement.
+
+
+    Smart contracts have the potential to disrupt many industries by eliminating
+    the need for intermediaries and speeding up transactions while making them
+    more secure and transparent.
+  title: Smart Contracts
