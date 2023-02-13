@@ -49,6 +49,12 @@
           "shortTitle": "New Financial Infra.",
           "details": "Incorporating the new modern types of financial features into traditional banks can take months, whereas they can be implemented on blockchain in just a matter of days.\n\nThere are numerous providers that facilitate the transfer of funds from fiat or banks to the blockchain and vice versa. Once the funds are on the blockchain, they can be easily moved through the use of smart contracts, which allow for the coding of instructions.\n\nThe necessary infrastructure for financial apps, such as the transfer of funds between banks and the apps, executing code, and maintaining the app's uptime, is already in place. This simplifies the process for developers, enabling them to concentrate solely on the core functionality of their applications.",
           "title": "New Financial Infrastructure"
+        },
+        {
+          "key": "ecosystem-of-layers",
+          "shortTitle": "Ecosystem",
+          "details": "An advantage of blockchain for end-users is that the code of smart contracts is visible to everyone, regardless of whether the developers or projects choose to make it open-source. This leads to a high degree of innovation by allowing different projects to draw inspiration from one another.\n\nMoreover, deployed smart contracts can be invoked by anyone, enabling the reuse of code and functionality. This means that developers can utilize existing primitive smart contracts related to lending and borrowing, asset exchange (liquidity pools), bonding curves, staking, etc. and develop more advanced functionality.\n\nThis fosters a highly competitive environment for blockchain projects, but ultimately benefits users the most.\n\n",
+          "title": "Ecosystem of Layers"
         }
       ],
       "questions": [],
