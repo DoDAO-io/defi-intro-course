@@ -84,56 +84,50 @@
     - Privacy concerns: CEXs often require users to provide personal
     information, which can be vulnerable to misuse or theft.
 - key: defi
+  title: DeFi
   shortTitle: DeFi
   details: >-
-    Benefits of DeFi over traditional finance:
+    ### Advantages
 
+    Advantages of DeFi over traditional finance:
 
-    Decentralization: DeFi operates on decentralized blockchain networks,
+    - Decentralization: DeFi operates on decentralized blockchain networks,
     meaning there is no need for intermediaries such as banks or financial
     institutions. This reduces the risk of centralized points of failure and
     increases transparency and security.
 
-
-    Accessibility: DeFi is accessible to anyone with an internet connection,
+    - Accessibility: DeFi is accessible to anyone with an internet connection,
     making financial services available to individuals who might not have access
     to traditional banking services.
 
-
-    Lower barriers to entry: DeFi allows anyone to participate in financial
+    - Lower barriers to entry: DeFi allows anyone to participate in financial
     services, regardless of their location or financial history.
 
-
-    Censorship-resistant: DeFi operates on decentralized networks, which are
+    - Censorship-resistant: DeFi operates on decentralized networks, which are
     resistant to censorship or interference from governments or other entities.
 
+    - Programmable money: DeFi provides the ability to program money and
+    automate financial transactions, enabling new and innovative use cases.
 
-    Programmable money: DeFi provides the ability to program money and automate
-    financial transactions, enabling new and innovative use cases.
 
+    ### Disadvantages
 
     Disadvantages of DeFi over traditional finance:
 
-
-    Lack of regulation: DeFi operates in an unregulated environment, which can
+    - Lack of regulation: DeFi operates in an unregulated environment, which can
     make it more vulnerable to scams and fraud.
 
-
-    Technical complexity: DeFi requires a strong understanding of blockchain
+    - Technical complexity: DeFi requires a strong understanding of blockchain
     technology and can be difficult for the average person to use.
 
-
-    Liquidity: Some DeFi protocols and markets are not yet as liquid as
+    - Liquidity: Some DeFi protocols and markets are not yet as liquid as
     traditional financial markets, which can result in higher volatility and
     price swings.
 
-
-    Limited scalability: The scalability of DeFi is limited by the underlying
+    - Limited scalability: The scalability of DeFi is limited by the underlying
     blockchain technology, which can result in slower transaction times and
     higher fees.
 
-
-    Security concerns: DeFi operates in a relatively new and untested
+    - Security concerns: DeFi operates in a relatively new and untested
     environment, which raises concerns about the security of funds and the
     potential for hacking or theft.
-  title: DeFi
