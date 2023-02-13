@@ -55,6 +55,12 @@
           "shortTitle": "Ecosystem",
           "details": "An advantage of blockchain for end-users is that the code of smart contracts is visible to everyone, regardless of whether the developers or projects choose to make it open-source. This leads to a high degree of innovation by allowing different projects to draw inspiration from one another.\n\nMoreover, deployed smart contracts can be invoked by anyone, enabling the reuse of code and functionality. This means that developers can utilize existing primitive smart contracts related to lending and borrowing, asset exchange (liquidity pools), bonding curves, staking, etc. and develop more advanced functionality.\n\nThis fosters a highly competitive environment for blockchain projects, but ultimately benefits users the most.\n\n",
           "title": "Ecosystem of Layers"
+        },
+        {
+          "key": "conclusion",
+          "shortTitle": "Conclusion",
+          "details": "The advent of Decentralized Finance (DeFi) has introduced a new era of financial applications that are not dominated by centralized organizations or government control. This is because DeFi transactions are executed and managed by code and are publicly visible on the blockchain, leading to a more secure and transparent financial system. DeFi is a global financial network that is available to all.\n\nDespite instances of people losing money in blockchain exchanges over the past couple of years, it is crucial to recognize that these exchanges may have utilized blockchain technology, but they were not decentralized and lacked transparency over funds and transactions.\n\nIn the following chapters, we will delve into a comparison between Decentralized Finance, Traditional Finance, and Centralized Finance, thereby providing a clearer understanding.\n\n\n",
+          "title": "Conclusion"
         }
       ],
       "questions": [],
