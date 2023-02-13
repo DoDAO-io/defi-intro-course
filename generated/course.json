@@ -77,6 +77,12 @@
           "shortTitle": "What is Blockchain?",
           "details": "Blockchain is a decentralized, distributed digital ledger that records transactions across a network of computers. Transactions are verified and recorded through cryptography, making it nearly impossible for any one user to alter the record retroactively without being detected by the network. The result is a system that is transparent, secure, and resistant to censorship, and one that allows multiple parties to have a shared and consistent view of a database without requiring a central authority. This makes it particularly useful for applications such as cryptocurrencies, digital contracts, and other applications that require a secure and transparent way of tracking transactions.\n\n",
           "title": "What is Blockchain?"
+        },
+        {
+          "key": "blockchain-ledger",
+          "shortTitle": "Blockchain Ledger",
+          "details": "A blockchain ledger works by maintaining a growing list of records, called blocks, which are linked and secured using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data. This creates a chain of blocks, hence the name \"blockchain.\"\n\nWhen a new transaction is initiated, it is broadcast to the network of nodes (computers) that maintain the ledger. These nodes then validate the transaction using algorithms built into the blockchain protocol, such as checking that the sender has enough funds to complete the transaction. Once validated, the transaction is added to a block and the block is added to the blockchain.\n\nEach node in the network has a copy of the entire blockchain, and all nodes must reach consensus on the state of the ledger before any new block can be added. This ensures that the ledger is consistent and tamper-proof, as any attempt to alter a block would require a majority of nodes to agree to the change, which is highly unlikely.\n\nThe decentralized and secure nature of the blockchain ledger makes it ideal for a wide range of applications, including secure record keeping, smart contracts, and digital currencies.\n\n",
+          "title": "Blockchain Ledger"
         }
       ],
       "readings": [],
