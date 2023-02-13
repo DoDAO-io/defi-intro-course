@@ -82,3 +82,23 @@
     to be addressed. There are countless more frequent use cases that require
     solutions.
   title: Modern Use Cases
+- key: new-financial-infrastructure
+  shortTitle: New Financial Infra.
+  details: >-
+    Incorporating the new modern types of financial features into traditional
+    banks can take months, whereas they can be implemented on blockchain in just
+    a matter of days.
+
+
+    There are numerous providers that facilitate the transfer of funds from fiat
+    or banks to the blockchain and vice versa. Once the funds are on the
+    blockchain, they can be easily moved through the use of smart contracts,
+    which allow for the coding of instructions.
+
+
+    The necessary infrastructure for financial apps, such as the transfer of
+    funds between banks and the apps, executing code, and maintaining the app's
+    uptime, is already in place. This simplifies the process for developers,
+    enabling them to concentrate solely on the core functionality of their
+    applications.
+  title: New Financial Infrastructure
