@@ -1,0 +1,17 @@
+- key: decentralized-currency
+  title: Decentralized Currency
+  shortTitle: Bitcoin - Currency
+  details: >-
+    Bitcoin is the first decentralized digital currency. It operates on a
+    peer-to-peer network, meaning that transactions take place directly between
+    users without the need for intermediaries. This decentralization is a key
+    feature of Bitcoin and one of the reasons why it was created in the first
+    place. It allows for a more open and transparent financial system, as well
+    as greater resistance to censorship and control by any single entity.
+
+
+    Bitcoin was designed primarily as a decentralized digital currency and does
+    not have the built-in capability to support complex functionality. At the
+    same time, Ethereum was specifically designed to be a platform for
+    decentralized applications and smart contracts, and its programming
+    language, Solidity, was created specifically for this purpose.
