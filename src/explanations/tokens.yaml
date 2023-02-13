@@ -83,3 +83,37 @@
     decentralized games, providing a secure and decentralized way to trade and
     exchange virtual goods and items.
   title: ERC-20 Use Cases
+- key: token-types
+  shortTitle: Token Types
+  details: >-
+    There are several types of ERC tokens in the Ethereum ecosystem, each
+    serving a different purpose. Here are some of the most common ERC token
+    types:
+
+
+    1. ERC-20: As mentioned before, ERC-20 is the most widely adopted standard
+    for Ethereum tokens. It defines a set of rules and guidelines for Ethereum
+    tokens to follow, making it easier for developers to create and deploy new
+    tokens on the Ethereum network.
+
+    2. ERC-721: ERC-721 is a non-fungible token (NFT) standard, which means that
+    each token is unique and cannot be replaced or divided into smaller units.
+    ERC-721 tokens are commonly used for collectibles, such as virtual art and
+    other digital assets.
+
+    3. ERC-1155: ERC-1155 is a multi-token standard that allows for the creation
+    of both fungible and non-fungible tokens within a single smart contract.
+    This makes it more efficient and cost-effective for developers to create and
+    manage multiple types of tokens.
+
+    4. ERC-223: ERC-223 is an improvement on the ERC-20 standard, designed to
+    address some of the inefficiencies and security concerns with the transfer
+    of ERC-20 tokens. ERC-223 tokens offer improved security and efficiency
+    compared to ERC-20 tokens.
+
+
+    There are several different types of ERC tokens in the Ethereum ecosystem,
+    each serving a different purpose and offering different functionality. The
+    choice of ERC token type depends on the specific use case and requirements
+    of the project.
+  title: Token Types
