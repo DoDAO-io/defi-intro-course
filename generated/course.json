@@ -106,6 +106,15 @@
       "readings": [],
       "summaries": [],
       "questions": []
+    },
+    {
+      "key": "tokens",
+      "title": "Tokens",
+      "details": "Blockchain tokens are digital assets that are built on top of a blockchain platform. They are used as a unit of value and can be used to represent assets such as property, stocks, or even virtual items within a game or platform.\n\n",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ]
 }
