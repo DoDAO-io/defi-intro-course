@@ -15,3 +15,23 @@
     same time, Ethereum was specifically designed to be a platform for
     decentralized applications and smart contracts, and its programming
     language, Solidity, was created specifically for this purpose.
+- key: what-is-blockchain
+  shortTitle: What is Blockchain?
+  details: >
+    Blockchain provides the infrastructure for simple but innovative
+    applications related to payments, incentives, investments, etc.
+
+
+    Blockchains provide the infrastructure for projects to
+
+    1. Create and use tokens as a store of value
+
+    2. Validate and record transactions related to transferring of tokens or
+    other state update logic
+
+    3. Write simple programs, called smart contracts, to perform some logic and
+    update the state of tokens.
+
+    4. Smart contracts also have an account number (wallet address) associated
+    with them, enabling smart contracts to receive and send money/tokens.
+  title: What is Blockchain?
