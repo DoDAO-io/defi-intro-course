@@ -26,3 +26,34 @@
     own advantages and disadvantages, and users should choose a wallet that
     suits their needs based on factors such as security, convenience, and
     accessibility.
+- key: custodian-and-non-custodian-wallets
+  shortTitle: Wallet Types
+  details: >-
+    ### Custodian Wallets
+
+    Custodian and non-custodian wallets are two types of cryptocurrency wallets
+    that differ in the way they manage the private keys of users.
+
+
+    Custodian wallets are cryptocurrency wallets where the private keys are
+    managed by a third-party, usually a cryptocurrency exchange or financial
+    services company. This means that the company has control over the user's
+    funds and is responsible for securing them. Examples of custodian wallets
+    include Coinbase, Binance, and Kraken.
+
+
+    ### Non Custodian Wallets
+
+    Non-custodian wallets are cryptocurrency wallets where the user holds their
+    own private keys. This means that the user has full control over their funds
+    and is responsible for securing their own private keys. Examples of
+    non-custodian wallets include hardware wallets like Trezor and Ledger, and
+    software wallets like MyEtherWallet and MetaMask.
+
+
+    The main difference between the two is control over the private keys and
+    security. With a custodian wallet, the user is relying on the security
+    measures put in place by the third-party to protect their funds, while with
+    a non-custodian wallet, the user has full control and responsibility over
+    the security of their funds.
+  title: Custodian and Non Custodian Wallets
