@@ -37,6 +37,12 @@
           "shortTitle": "What is Blockchain?",
           "details": "Blockchain provides the infrastructure for simple but innovative applications related to payments, incentives, investments, etc.\n\nBlockchains provide the infrastructure for projects to\n1. Create and use tokens as a store of value\n2. Validate and record transactions related to transferring of tokens or other state update logic\n3. Write simple programs, called smart contracts, to perform some logic and update the state of tokens.\n4. Smart contracts also have an account number (wallet address) associated with them, enabling smart contracts to receive and send money/tokens.\n",
           "title": "What is Blockchain?"
+        },
+        {
+          "key": "modern-use-cases",
+          "shortTitle": "Modern Use Cases",
+          "details": "The following are examples of real-world requirements that are not fully met by the current financial system:\n\n## Some Simple Use Cases\n1. Transfer money to anyone across the world within seconds\n2. Tokenize and trade real world assets like Real Estate.\n3. Fractional ownership of stocks\n4. Be able to by stock of any country from anywhere\n\n## Some Advanced Use Cases\n1. When hosting global online events, you aim to maximize participation and involvement. After the event concludes, you plan to compensate contributors based on their level of involvement, using a percentage of the profits.\n2. For hobby projects that have a large user base, you may wish to take it to the next level and commercialize it. In this scenario, you may want to involve your customers as partners, providing them with a flexible investment option that allows them to access their funds at any time.\n3. Your company excels in the production of top-quality basement flood prevention pumps with substantial profit margins. To guarantee customer satisfaction, you offer a warranty that compensates for 50% of damages in the unlikely event the pump fails to perform. To secure funds for the warranty, you are seeking to raise money in exchange for a monthly share of the profits.\n4. Your goal is to invest in startups while retaining the ability to sell your investment at any time, much like stocks.\n5. You aim to distribute revenue from podcasts or YouTube content based on views and topic categories.\n\nThese are only a few of the gaps in the current financial system that need to be addressed. There are countless more frequent use cases that require solutions.",
+          "title": "Modern Use Cases"
         }
       ],
       "questions": [],
