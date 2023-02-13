@@ -105,6 +105,24 @@ topics:
       The transactions on the blockchain are recorded on a public ledger, making
       it transparent and secure, and reducing the risk of fraud and hacking.
     explanations: wallets.yaml
+  - key: tradfi-vs-cefi-vs-defi
+    title: TradFi vs CeFi vs DeFi
+    details: >
+      - TradFi - TradFi stands for "Traditional Finance", which refers to the
+      traditional financial services and institutions, such as banks, insurance
+      companies, and investment firms, that have been around for many decades. 
+
+      - CeFi - Centralized exchanges (CEXs) in the cryptocurrency world operate
+      on the premise that all crypto trading transactions are managed and
+      executed through a central platform in the realm of centralized finance.
+      Notable examples of centralized finance companies include Binance,
+      Coinbase, and Kraken.
+
+      - DeFi - DeFi, short for Decentralized Finance, refers to financial
+      applications that operate without the need for intermediaries like banks
+      and brokerages. These applications are powered by smart contracts, which
+      are computer codes that automatically execute based on predefined
+      conditions.
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
