@@ -38,45 +38,38 @@
     currencies, are often subject to inflation, which can erode the value of
     people's savings over time.
 - key: cefi
+  title: CeFi
   shortTitle: CeFi
   details: >-
-    Advantages of centralized exchanges include:
+    ### Advantages of centralized exchanges include:
 
 
-    User-friendly interface: CEXs often have user-friendly interfaces that are
+    - User-friendly interface: CEXs often have user-friendly interfaces that are
     easy to use and understand, making them accessible to a wide range of users.
 
-
-    High liquidity: CEXs typically have high liquidity, meaning that users can
+    - High liquidity: CEXs typically have high liquidity, meaning that users can
     buy and sell cryptocurrencies quickly and easily.
 
-
-    Wide range of cryptocurrencies: CEXs often offer a wide range of
+    - Wide range of cryptocurrencies: CEXs often offer a wide range of
     cryptocurrencies, making it easy for users to find the assets they are
     looking for.
 
-
-    Customer support: CEXs often have dedicated customer support teams that are
-    available to help users with any issues or questions they may have.
-
-
-    Disadvantages of centralized exchanges include:
+    - Customer support: CEXs often have dedicated customer support teams that
+    are available to help users with any issues or questions they may have.
 
 
-    Security risks: Centralized exchanges are vulnerable to hacking and other
+    ### Disadvantages of centralized exchanges include:
+
+    - Security risks: Centralized exchanges are vulnerable to hacking and other
     security threats, which can result in the loss of users' assets.
 
+    - Single point of failure: Since CEXs are controlled by a single entity,
+    they represent a single point of failure, meaning that if the exchange
+    fails, users may lose access to their assets.
 
-    Single point of failure: Since CEXs are controlled by a single entity, they
-    represent a single point of failure, meaning that if the exchange fails,
-    users may lose access to their assets.
-
-
-    Lack of control: Users do not have direct control over their assets when
+    - Lack of control: Users do not have direct control over their assets when
     they are stored on a centralized exchange, as they are stored on the
     exchange's servers.
 
-
-    Privacy concerns: CEXs often require users to provide personal information,
-    which can be vulnerable to misuse or theft.
-  title: CeFi
+    - Privacy concerns: CEXs often require users to provide personal
+    information, which can be vulnerable to misuse or theft.
