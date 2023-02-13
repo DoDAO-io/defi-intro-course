@@ -104,6 +104,7 @@ topics:
       transaction history, and manage multiple assets within a single platform.
       The transactions on the blockchain are recorded on a public ledger, making
       it transparent and secure, and reducing the risk of fraud and hacking.
+    explanations: wallets.yaml
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
