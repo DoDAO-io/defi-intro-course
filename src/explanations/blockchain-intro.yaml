@@ -75,3 +75,40 @@
     creating a chain of hashes that reference each other and can detect any
     changes to the data.
   title: Hashing
+- key: transactions
+  shortTitle: Transactions
+  details: >+
+    In a blockchain, money is transferred through a process called a
+    "transaction." A transaction is simply a transfer of value from one person
+    (or address) to another.
+
+
+    Here's how a typical transaction works on a blockchain:
+
+
+    1. The sender creates a new transaction with the details of the recipient
+    (their address), the amount to be transferred, and the sender's private key
+    to sign the transaction.
+
+    2. The transaction is broadcast to the network, where it is verified by
+    nodes (computers) that make up the network.
+
+    3. The verified transaction is then added to a block along with other
+    transactions, and the block is added to the blockchain.
+
+    4. The recipient can now access the funds by using their private key to
+    unlock the transaction.
+
+
+    In a blockchain network that uses a cryptocurrency, such as Bitcoin, the
+    value being transferred is in the form of digital coins. The transaction
+    updates the balance of the sender and recipient's addresses on the
+    blockchain.
+
+
+    It's important to note that in a public blockchain network like Bitcoin,
+    transactions are transparent and can be seen by anyone. However, the
+    identity of the individuals behind the addresses remains anonymous, as only
+    the address is recorded on the blockchain.
+
+  title: Transactions
