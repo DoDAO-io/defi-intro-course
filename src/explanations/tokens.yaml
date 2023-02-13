@@ -31,3 +31,24 @@
     5. Accessibility: Blockchain tokens can be easily bought, sold and traded on
     various online exchanges, making them more accessible to a wider range of
     users.
+- key: erc-20
+  shortTitle: ERC-20
+  details: >-
+    ERC-20 is a technical standard for Ethereum-based tokens. It defines a
+    common set of rules for Ethereum tokens to follow, allowing developers to
+    easily create and deploy new tokens on the Ethereum network.
+
+
+    The ERC-20 standard defines a set of six functions that must be implemented
+    by any Ethereum token that wants to be considered ERC-20 compliant. These
+    functions include the methods for obtaining information about the token
+    (such as its name, symbol, and total supply), as well as functions for
+    transferring tokens between addresses.
+
+
+    The ERC-20 standard has become widely adopted and is now used as the basis
+    for many of the most popular Ethereum-based tokens, including stablecoins,
+    security tokens, and utility tokens. This widespread adoption of the
+    standard has led to a large and thriving ecosystem of Ethereum-based tokens,
+    with many new tokens being created and traded on a daily basis.
+  title: ERC-20

@@ -117,6 +117,12 @@
           "shortTitle": "What are Tokens?",
           "details": "Blockchain tokens are digital assets that are built on top of a blockchain platform. They are used as a unit of value and can be used to represent assets such as property, stocks, or even virtual items within a game or platform.\n\nThe use of blockchain tokens offers several advantages over traditional forms of asset representation and transfer:\n\n1. Decentralization: Blockchain tokens are stored on a decentralized network, which means that they are not controlled by any single entity. This makes them more secure and resistant to tampering or censorship.\n2. Transparency: The transactions and transfers of blockchain tokens are publicly visible on the blockchain, creating a transparent and auditable record of all activity.\n3. Efficiency: The use of blockchain technology enables fast, secure and efficient transfers of tokens, without the need for intermediaries or middlemen.\n4. Programmability: Blockchain tokens can be programmed to include rules and logic, such as automatic transfer of tokens when certain conditions are met, making them more versatile and customizable.\n5. Accessibility: Blockchain tokens can be easily bought, sold and traded on various online exchanges, making them more accessible to a wider range of users.",
           "title": "What are Tokens?"
+        },
+        {
+          "key": "erc-20",
+          "shortTitle": "ERC-20",
+          "details": "ERC-20 is a technical standard for Ethereum-based tokens. It defines a common set of rules for Ethereum tokens to follow, allowing developers to easily create and deploy new tokens on the Ethereum network.\n\nThe ERC-20 standard defines a set of six functions that must be implemented by any Ethereum token that wants to be considered ERC-20 compliant. These functions include the methods for obtaining information about the token (such as its name, symbol, and total supply), as well as functions for transferring tokens between addresses.\n\nThe ERC-20 standard has become widely adopted and is now used as the basis for many of the most popular Ethereum-based tokens, including stablecoins, security tokens, and utility tokens. This widespread adoption of the standard has led to a large and thriving ecosystem of Ethereum-based tokens, with many new tokens being created and traded on a daily basis.",
+          "title": "ERC-20"
         }
       ],
       "readings": [],
