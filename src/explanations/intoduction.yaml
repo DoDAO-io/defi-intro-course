@@ -128,6 +128,13 @@
     This fosters a highly competitive environment for blockchain projects, but
     ultimately benefits users the most.
 
+- key: current-state-of-finance
+  shortTitle: Current State
+  details: |-
+    Current State
+
+    Current State
+  title: Current State of Finance
 - key: conclusion
   shortTitle: Conclusion
   details: >+
@@ -151,10 +158,3 @@
 
 
   title: Conclusion
-- key: current-state-of-finance
-  shortTitle: Current State
-  details: |-
-    Current State
-
-    Current State
-  title: Current State of Finance
