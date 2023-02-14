@@ -83,7 +83,8 @@
     solutions.
   title: Modern Use Cases
 - key: new-financial-infrastructure
-  shortTitle: New Financial Infra.
+  title: New Financial Infrastructure
+  shortTitle: Better Finance Infra
   details: >-
     Incorporating the new modern types of financial features into traditional
     banks can take months, whereas they can be implemented on blockchain in just
@@ -101,7 +102,6 @@
     uptime, is already in place. This simplifies the process for developers,
     enabling them to concentrate solely on the core functionality of their
     applications.
-  title: New Financial Infrastructure
 - key: ecosystem-of-layers
   title: Ecosystem of Layers
   shortTitle: Composability
