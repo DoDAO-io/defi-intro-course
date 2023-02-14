@@ -51,16 +51,16 @@
           "title": "Modern Use Cases"
         },
         {
-          "key": "new-financial-infrastructure",
-          "shortTitle": "Better Finance Infra",
-          "details": "Incorporating the new modern types of financial features into traditional banks can take months, whereas they can be implemented on blockchain in just a matter of days.\n\nThere are numerous providers that facilitate the transfer of funds from fiat or banks to the blockchain and vice versa. Once the funds are on the blockchain, they can be easily moved through the use of smart contracts, which allow for the coding of instructions.\n\nThe necessary infrastructure for financial apps, such as the transfer of funds between banks and the apps, executing code, and maintaining the app's uptime, is already in place. This simplifies the process for developers, enabling them to concentrate solely on the core functionality of their applications.",
-          "title": "Better Financial Infrastructure"
-        },
-        {
           "key": "defi-27",
           "shortTitle": "DeFi",
           "details": "DeFi, short for decentralized finance, refers to financial services on public blockchains, mainly Ethereum, providing options to earn interest, borrow, lend, buy insurance, trade derivatives and assets without the need for intermediaries or paperwork. As a global, peer-to-peer, and pseudonymous system, DeFi is accessible to everyone and operates at a faster pace compared to traditional banking.\n\nDeFi builds on Bitcoin's basic idea of digital currency, offering a complete digital replacement for Wall Street, with lower associated costs. This approach can potentially create more accessible, open, free, and fair financial markets available to anyone with internet access.\n\n\n### Benefits Of DeFi\n\n",
           "title": "DeFi"
+        },
+        {
+          "key": "new-financial-infrastructure",
+          "shortTitle": "Better Finance Infra",
+          "details": "Incorporating the new modern types of financial features into traditional banks can take months, whereas they can be implemented on blockchain in just a matter of days.\n\nThere are numerous providers that facilitate the transfer of funds from fiat or banks to the blockchain and vice versa. Once the funds are on the blockchain, they can be easily moved through the use of smart contracts, which allow for the coding of instructions.\n\nThe necessary infrastructure for financial apps, such as the transfer of funds between banks and the apps, executing code, and maintaining the app's uptime, is already in place. This simplifies the process for developers, enabling them to concentrate solely on the core functionality of their applications.",
+          "title": "Better Financial Infrastructure"
         },
         {
           "key": "ecosystem-of-layers",
