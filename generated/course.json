@@ -63,16 +63,16 @@
           "title": "Composability"
         },
         {
-          "key": "conclusion",
-          "shortTitle": "Conclusion",
-          "details": "The advent of Decentralized Finance (DeFi) has introduced a new era of financial applications that are not dominated by centralized organizations or government control. This is because DeFi transactions are executed and managed by code and are publicly visible on the blockchain, leading to a more secure and transparent financial system. DeFi is a global financial network that is available to all.\n\nDespite instances of people losing money in blockchain exchanges over the past couple of years, it is crucial to recognize that these exchanges may have utilized blockchain technology, but they were not decentralized and lacked transparency over funds and transactions.\n\nIn the following chapters, we will delve into a comparison between Decentralized Finance, Traditional Finance, and Centralized Finance, thereby providing a clearer understanding.\n\n\n",
-          "title": "Conclusion"
-        },
-        {
           "key": "defi-27",
           "shortTitle": "DeFi",
           "details": "DeFi, short for decentralized finance, refers to financial services on public blockchains, mainly Ethereum, providing options to earn interest, borrow, lend, buy insurance, trade derivatives and assets without the need for intermediaries or paperwork. As a global, peer-to-peer, and pseudonymous system, DeFi is accessible to everyone and operates at a faster pace compared to traditional banking.\n\nDeFi builds on Bitcoin's basic idea of digital currency, offering a complete digital replacement for Wall Street, with lower associated costs. This approach can potentially create more accessible, open, free, and fair financial markets available to anyone with internet access.\n\n\n### Benefits Of DeFi\n\n",
           "title": "DeFi"
+        },
+        {
+          "key": "conclusion",
+          "shortTitle": "Conclusion",
+          "details": "The advent of Decentralized Finance (DeFi) has introduced a new era of financial applications that are not dominated by centralized organizations or government control. This is because DeFi transactions are executed and managed by code and are publicly visible on the blockchain, leading to a more secure and transparent financial system. DeFi is a global financial network that is available to all.\n\nDespite instances of people losing money in blockchain exchanges over the past couple of years, it is crucial to recognize that these exchanges may have utilized blockchain technology, but they were not decentralized and lacked transparency over funds and transactions.\n\nIn the following chapters, we will delve into a comparison between Decentralized Finance, Traditional Finance, and Centralized Finance, thereby providing a clearer understanding.\n\n\n",
+          "title": "Conclusion"
         }
       ],
       "questions": [],
