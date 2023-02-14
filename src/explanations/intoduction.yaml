@@ -21,6 +21,13 @@
     same time, Ethereum was specifically designed to be a platform for
     decentralized applications and smart contracts, and its programming
     language, Solidity, was created specifically for this purpose.
+- key: current-state-of-finance
+  shortTitle: Current State
+  details: |-
+    Current State
+
+    Current State
+  title: Current State of Finance
 - key: what-is-blockchain
   shortTitle: What is Blockchain?
   details: >
@@ -41,13 +48,6 @@
     4. Smart contracts also have an account number (wallet address) associated
     with them, enabling smart contracts to receive and send money/tokens.
   title: What is Blockchain?
-- key: current-state-of-finance
-  shortTitle: Current State
-  details: |-
-    Current State
-
-    Current State
-  title: Current State of Finance
 - key: modern-use-cases
   shortTitle: Modern Use Cases
   details: >-
