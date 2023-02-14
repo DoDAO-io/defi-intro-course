@@ -79,8 +79,9 @@
     with them, enabling smart contracts to receive and send money/tokens.
   title: What is Blockchain?
 - key: defi-27
+  title: DeFi
   shortTitle: DeFi
-  details: >+
+  details: >-
     DeFi, short for decentralized finance, refers to financial services on
     public blockchains, mainly Ethereum, providing options to earn interest,
     borrow, lend, buy insurance, trade derivatives and assets without the need
@@ -98,7 +99,20 @@
 
     ### Benefits Of DeFi
 
-  title: DeFi
+    - You can access DeFi by creating a wallet without applying for anything or
+    opening an account. 
+
+    - You don't need to provide personal information since it's pseudonymous. 
+
+    - DeFi offers flexibility as you can move your assets quickly without
+    waiting for long transfers or paying high fees. 
+
+    - Interest rates and rewards update rapidly, often every 15 seconds, and can
+    be significantly higher than traditional Wall Street. 
+
+    - DeFi is transparent, and everyone can see the complete set of
+    transactions, which is a level of transparency that private corporations
+    rarely grant.
 - key: modern-use-cases
   shortTitle: Modern Use Cases
   details: >-
