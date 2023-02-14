@@ -145,26 +145,6 @@
     uptime, is already in place. This simplifies the process for developers,
     enabling them to concentrate solely on the core functionality of their
     applications.
-- key: ecosystem-of-layers
-  title: Ecosystem of Layers
-  shortTitle: Composability
-  details: >+
-    An advantage of blockchain for end-users is that the code of smart contracts
-    is visible to everyone, regardless of whether the developers or projects
-    choose to make it open-source. This leads to a high degree of innovation by
-    allowing different projects to draw inspiration from one another.
-
-
-    Moreover, deployed smart contracts can be invoked by anyone, enabling the
-    reuse of code and functionality. This means that developers can utilize
-    existing primitive smart contracts related to lending and borrowing, asset
-    exchange (liquidity pools), bonding curves, staking, etc. and develop more
-    advanced functionality.
-
-
-    This fosters a highly competitive environment for blockchain projects, but
-    ultimately benefits users the most.
-
 - key: defi-27
   shortTitle: DeFi
   details: >+
@@ -186,6 +166,26 @@
     ### Benefits Of DeFi
 
   title: DeFi
+- key: ecosystem-of-layers
+  title: Ecosystem of Layers
+  shortTitle: Composability
+  details: >+
+    An advantage of blockchain for end-users is that the code of smart contracts
+    is visible to everyone, regardless of whether the developers or projects
+    choose to make it open-source. This leads to a high degree of innovation by
+    allowing different projects to draw inspiration from one another.
+
+
+    Moreover, deployed smart contracts can be invoked by anyone, enabling the
+    reuse of code and functionality. This means that developers can utilize
+    existing primitive smart contracts related to lending and borrowing, asset
+    exchange (liquidity pools), bonding curves, staking, etc. and develop more
+    advanced functionality.
+
+
+    This fosters a highly competitive environment for blockchain projects, but
+    ultimately benefits users the most.
+
 - key: conclusion
   shortTitle: Conclusion
   details: >+
