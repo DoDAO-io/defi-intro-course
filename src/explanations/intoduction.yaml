@@ -1,7 +1,7 @@
 - key: current-state-of-finance
   title: Current State of Finance
   shortTitle: Current State
-  details: >
+  details: >+
     Important pillars of a good society include 
 
     1. Stable Government
@@ -20,21 +20,21 @@
     bankruptcies of big companies etc, no transparency etc. 
 
 
-    We see a lot of technological improvements in the last two decades, but
-    haven't seen to big of a change in how banks operate or in their product
-    offerings. Even till this day
+    Despite technological advancements, banks and their product offerings have
+    not significantly changed.
 
-    1. We do know in real time, how much is the total amount of currency
-    available in a country
 
-    2. Transferring money across borders takes multiple days
+    1. Real-time knowledge of a country's currency availability is not readily
+    available, but is necessary.
 
-    3. Change in monetary policies are based on short term goals of governments
-    rather that towards the long term success of the country. That is the reason
-    we see so many countries with record level high debts.
+    2. Transferring money across borders still remains time-consuming
 
-    4. Governments try to protect big players by using taxes paid by normal
-    every day people
+    3. Monetary policy changes often prioritize short-term government goals over
+    long-term national success, leading to high levels of debt.
+
+    4. Governments tend to protect large entities using taxes paid by average
+    citizens.
+
 - key: decentralized-currency
   title: Decentralized Currency
   shortTitle: Bitcoin - Currency
