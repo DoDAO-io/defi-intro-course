@@ -103,7 +103,8 @@
     applications.
   title: New Financial Infrastructure
 - key: ecosystem-of-layers
-  shortTitle: Ecosystem
+  title: Ecosystem of Layers
+  shortTitle: Composability
   details: >+
     An advantage of blockchain for end-users is that the code of smart contracts
     is visible to everyone, regardless of whether the developers or projects
@@ -121,7 +122,6 @@
     This fosters a highly competitive environment for blockchain projects, but
     ultimately benefits users the most.
 
-  title: Ecosystem of Layers
 - key: conclusion
   shortTitle: Conclusion
   details: >+
