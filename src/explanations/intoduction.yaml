@@ -108,6 +108,13 @@
     uptime, is already in place. This simplifies the process for developers,
     enabling them to concentrate solely on the core functionality of their
     applications.
+- key: current-state-of-finance
+  shortTitle: Current State
+  details: |-
+    Current State
+
+    Current State
+  title: Current State of Finance
 - key: ecosystem-of-layers
   title: Ecosystem of Layers
   shortTitle: Composability
@@ -128,13 +135,6 @@
     This fosters a highly competitive environment for blockchain projects, but
     ultimately benefits users the most.
 
-- key: current-state-of-finance
-  shortTitle: Current State
-  details: |-
-    Current State
-
-    Current State
-  title: Current State of Finance
 - key: conclusion
   shortTitle: Conclusion
   details: >+
