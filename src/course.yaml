@@ -129,3 +129,4 @@ coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
   showExplanations: false
   showHints: false
+priority: 80
