@@ -371,3 +371,29 @@
     transactions (a block), it is broadcasted to the network, and everyone is
     updated to the latest network state.
   title: Decentralized Money
+- key: smart-contracts-44
+  shortTitle: Smart Contracts
+  details: >
+    Blockchain are not just limited to capturing the simple transactions that
+    involve a single transfer.  Blockchain like Ethereum allow developers to
+    write code which can then be used to encode rules related to when and how
+    the transfer should be done.
+
+
+    Using smart contracts you can write simple programs that do continuous
+    transfer of money every second to a community. You can add conditions, i.e.
+    transfer the money to group1 if certain conditions are met or transfer money
+    to another group every second, if the conditions are not met etc. You also
+    add logic like a transfer can only happen if the majority of the people in
+    the community agree to something or vote “yes” for the transfer.  
+
+
+    Every smart contract when deployed on blockchain, get a wallet address(or an
+    account number) assignment to them. This allows programs to be able to send
+    or receive money. No human is required to mediate these transactions. This
+    has enabled us to write applications that were not possible earlier. 
+
+
+    DeFi refers to the financial applications that are run by smart contracts on
+    top of blockchain with no human as intermediary
+  title: Smart Contracts
