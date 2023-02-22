@@ -66,3 +66,29 @@
     influence of decentralized finance-powered communities. The incident also
     highlighted an interesting historical parallel of ordinary individuals
     uniting to challenge a conventional establishment.
+- key: financial-infrastructure
+  shortTitle: Financial Infra.
+  details: >
+    Over the past decade, creating internet-based companies has become
+    remarkably easy. By identifying and addressing a problem that resonates with
+    an existing audience, founders can develop a working product for less than a
+    thousand dollars. Cloud providers such as Amazon Web Services, Google Cloud,
+    and Microsoft Azure have accelerated the pace of development by eliminating
+    the need for founders to worry about acquiring a computer server for website
+    deployment. These providers make it easy to provision computers as needed,
+    thereby increasing productivity and reducing costs.
+
+
+    Similarly, financial applications built on blockchains are also experiencing
+    a similar ease in development. Developers no longer need to worry about
+    integrating with banks, managing transactions, or deploying code. All of
+    these issues are resolved by blockchains, allowing developers to focus
+    solely on the core logic of their applications.
+
+
+    For instance, Curve Finance, a decentralized exchange (DEX) initially
+    designed for efficient stablecoin trading, has over $5 billion locked in it
+    and a development team of only five members. Most DeFi platforms with
+    hundreds of millions of dollars traded or locked on them have team sizes of
+    less than ten developers.
+  title: Financial Infrastructure
