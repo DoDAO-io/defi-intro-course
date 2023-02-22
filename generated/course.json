@@ -1,7 +1,7 @@
 {
   "key": "into-to-defi",
   "title": "Intro to DeFi",
-  "summary": "This is an introductory course to DeFi\n",
+  "summary": "This course explains what is DeFi, why is DeFi needed and some blockchain fundamentals",
   "details": "Decentralized finance (DeFi) refers to a new movement in the world of finance that aims to build decentralized financial applications using blockchain technology. The main idea behind DeFi is to bring financial services to people who are underbanked or unbanked, and to provide transparent, secure and accessible financial services without relying on traditional intermediaries such as banks. This can include lending and borrowing platforms, stablecoins, decentralized exchanges, and more. The goal of DeFi is to provide financial services that are open to everyone, regardless of geography or personal circumstances, and that are not controlled by any single entity.\n\n\nIn this course we will study\n1. Chapter 1 - DeFi Introduction\n2. Chapter 2 - Blockchain Basics\n3. Chapter 3 - Blockchain Tokens\n4. Chapter 4 - Wallets \n5. Chapter 5 - TradFi vs CeFi vs DeFi  \n\n\n",
   "duration": "30 mins - 1 hour",
   "highlights": [
