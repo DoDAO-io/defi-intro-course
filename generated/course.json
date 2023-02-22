@@ -184,6 +184,15 @@
       "readings": [],
       "summaries": [],
       "questions": []
+    },
+    {
+      "key": "why-defi",
+      "title": "Why DeFi?",
+      "details": "This chapter explains why do we need DeFi.  This chapter covers\n1. Importance of Transparency\n2. Modern Day Requirements\n3. Financial Infrastructure that Blockchain provides\n4. Composability in DeFi\n5. DeFi is a Global Financial System\n\n",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ],
   "priority": 80

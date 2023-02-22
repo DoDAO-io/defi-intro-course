@@ -125,6 +125,16 @@ topics:
       are computer codes that automatically execute based on predefined
       conditions.
     explanations: tradfi-vs-cefi-vs-defi.yaml
+  - key: why-defi
+    title: Why DeFi?
+    details: |+
+      This chapter explains why do we need DeFi.  This chapter covers
+      1. Importance of Transparency
+      2. Modern Day Requirements
+      3. Financial Infrastructure that Blockchain provides
+      4. Composability in DeFi
+      5. DeFi is a Global Financial System
+
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
