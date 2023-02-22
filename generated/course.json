@@ -27,12 +27,6 @@
       "order": 0,
       "explanations": [
         {
-          "key": "decentralized-currency",
-          "shortTitle": "Decentralized Money",
-          "details": "Bitcoin was released as a decentralized digital currency in 2009 by an individual or group of individuals using the pseudonym \"Satoshi Nakamoto.\" The primary motivation behind its creation was to provide an alternative to traditional centralized financial systems and offer a secure, transparent, and censorship-resistant means of conducting transactions and storing value.\n\n\nBitcoin is the first decentralized digital currency. It operates on a peer-to-peer network, meaning that transactions take place directly between users without the need for intermediaries. \n\n\nBitcoin was designed primarily as a decentralized digital currency and does not have the built-in capability to support complex functionality. Later in 2015, Ethereum was launched and it was specifically designed to be a platform for decentralized applications and smart contracts, and its programming language, Solidity, was created specifically for this purpose.",
-          "title": "Decentralized Money"
-        },
-        {
           "key": "what-is-blockchain",
           "shortTitle": "What is Blockchain?",
           "details": "Blockchain provides the infrastructure for simple but innovative applications related to payments, incentives, investments, etc.\n\nBlockchains provide the infrastructure for projects to\n1. Create and use tokens as a store of value\n2. Validate and record transactions related to transferring of tokens or other state update logic\n3. Write simple programs, called smart contracts, to perform some logic and update the state of tokens.\n4. Smart contracts also have an account number (wallet address) associated with them, enabling smart contracts to receive and send money/tokens.\n",
