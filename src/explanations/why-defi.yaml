@@ -92,3 +92,36 @@
     hundreds of millions of dollars traded or locked on them have team sizes of
     less than ten developers.
   title: Financial Infrastructure
+- key: composability
+  shortTitle: Composability
+  details: >
+    In order to establish trust and transparency, it is crucial that all code
+    deployed on blockchains is publicly available. This enables anyone to
+    scrutinize the code and identify any malicious actors involved at the code
+    level.
+
+
+    Furthermore, since all smart contracts are also publicly visible, developers
+    from different projects can view each other's code and derive inspiration
+    from it. While this creates a competitive environment, it benefits users as
+    it helps to keep fees minimal, which is important as users may switch to
+    similar platforms that offer cheaper fees.
+
+
+    In addition, each deployed contract has a unique blockchain address,
+    allowing anyone to call these smart contracts by providing the right
+    parameters. Many applications are built on top of smart contracts developed
+    by other applications, resulting in a win-win situation for everyone.
+
+
+    One such example is Fjord Foundry, which uses smart contracts developed by
+    Balancer, a project that connects inspired projects with passionate
+    supporters using Liquidity Bootstrapping Pools (LBPs). Fjord Foundry agreed
+    to the terms that activate a 2% platform access fee through Fjord Foundry,
+    split equally between the Balancer DAO and Fjord Foundry.
+
+
+    The level of innovation in DeFi as a result of this open and collaborative
+    environment is far greater than what occurs in Traditional Finance over a
+    decade.
+  title: Composability
