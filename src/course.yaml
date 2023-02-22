@@ -106,6 +106,16 @@ topics:
       The transactions on the blockchain are recorded on a public ledger, making
       it transparent and secure, and reducing the risk of fraud and hacking.
     explanations: wallets.yaml
+  - key: why-defi
+    title: Why DeFi?
+    details: |+
+      This chapter explains why do we need DeFi.  This chapter covers
+      1. Importance of Transparency
+      2. Modern Day Requirements
+      3. Financial Infrastructure that Blockchain provides
+      4. Composability in DeFi
+      5. DeFi is a Global Financial System
+
   - key: tradfi-vs-cefi-vs-defi
     title: TradFi vs CeFi vs DeFi
     details: >
@@ -125,16 +135,6 @@ topics:
       are computer codes that automatically execute based on predefined
       conditions.
     explanations: tradfi-vs-cefi-vs-defi.yaml
-  - key: why-defi
-    title: Why DeFi?
-    details: |+
-      This chapter explains why do we need DeFi.  This chapter covers
-      1. Importance of Transparency
-      2. Modern Day Requirements
-      3. Financial Infrastructure that Blockchain provides
-      4. Composability in DeFi
-      5. DeFi is a Global Financial System
-
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:
