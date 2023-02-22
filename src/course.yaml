@@ -50,6 +50,16 @@ topics:
       4. Financial Infrastructure
       5. Integrated System
     explanations: intoduction.yaml
+  - key: why-defi
+    title: Why DeFi?
+    details: |+
+      This chapter explains why do we need DeFi.  This chapter covers
+      1. Importance of Transparency
+      2. Modern Day Requirements
+      3. Financial Infrastructure that Blockchain provides
+      4. Composability in DeFi
+      5. DeFi is a Global Financial System
+
   - key: blockchain-intro
     title: Blockchain Intro
     details: >+
@@ -77,16 +87,6 @@ topics:
       5. Smart Contracts
 
     explanations: blockchain-intro.yaml
-  - key: why-defi
-    title: Why DeFi?
-    details: |+
-      This chapter explains why do we need DeFi.  This chapter covers
-      1. Importance of Transparency
-      2. Modern Day Requirements
-      3. Financial Infrastructure that Blockchain provides
-      4. Composability in DeFi
-      5. DeFi is a Global Financial System
-
   - key: tokens
     title: Tokens
     details: >+

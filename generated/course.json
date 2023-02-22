@@ -62,6 +62,15 @@
       "summaries": []
     },
     {
+      "key": "why-defi",
+      "title": "Why DeFi?",
+      "details": "This chapter explains why do we need DeFi.  This chapter covers\n1. Importance of Transparency\n2. Modern Day Requirements\n3. Financial Infrastructure that Blockchain provides\n4. Composability in DeFi\n5. DeFi is a Global Financial System\n\n",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
+    },
+    {
       "key": "blockchain-intro",
       "title": "Blockchain Intro",
       "details": "Blockchain is a decentralized digital ledger that records transactions across a network of computers. Each block in the chain contains a cryptographic hash of the previous block, a timestamp, and transaction data. The decentralized nature of the technology ensures that no single party has control over the data and makes it resistant to tampering and revision, making it a secure way of storing and transmitting information. This technology forms the backbone of cryptocurrencies like Bitcoin but has potential applications in a variety of industries, including finance, supply chain management, and voting systems.\n\nIn this chapter we will study\n1. Intro To Blockchain\n2. Blockchain Ledger\n3. Hashing\n4. Transactions\n5. Smart Contracts\n\n",
@@ -97,15 +106,6 @@
           "title": "Smart Contracts"
         }
       ],
-      "readings": [],
-      "summaries": [],
-      "questions": []
-    },
-    {
-      "key": "why-defi",
-      "title": "Why DeFi?",
-      "details": "This chapter explains why do we need DeFi.  This chapter covers\n1. Importance of Transparency\n2. Modern Day Requirements\n3. Financial Infrastructure that Blockchain provides\n4. Composability in DeFi\n5. DeFi is a Global Financial System\n\n",
-      "explanations": [],
       "readings": [],
       "summaries": [],
       "questions": []
