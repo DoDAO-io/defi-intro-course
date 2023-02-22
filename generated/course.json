@@ -102,6 +102,15 @@
       "questions": []
     },
     {
+      "key": "why-defi",
+      "title": "Why DeFi?",
+      "details": "This chapter explains why do we need DeFi.  This chapter covers\n1. Importance of Transparency\n2. Modern Day Requirements\n3. Financial Infrastructure that Blockchain provides\n4. Composability in DeFi\n5. DeFi is a Global Financial System\n\n",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
+    },
+    {
       "key": "tokens",
       "title": "Tokens",
       "details": "Blockchain tokens are digital assets that are built on top of a blockchain platform. They are used as a unit of value and can be used to represent assets such as property, stocks, or even virtual items within a game or platform.\n\n",
@@ -131,15 +140,6 @@
           "title": "Token Types"
         }
       ],
-      "readings": [],
-      "summaries": [],
-      "questions": []
-    },
-    {
-      "key": "why-defi",
-      "title": "Why DeFi?",
-      "details": "This chapter explains why do we need DeFi.  This chapter covers\n1. Importance of Transparency\n2. Modern Day Requirements\n3. Financial Infrastructure that Blockchain provides\n4. Composability in DeFi\n5. DeFi is a Global Financial System\n\n",
-      "explanations": [],
       "readings": [],
       "summaries": [],
       "questions": []
