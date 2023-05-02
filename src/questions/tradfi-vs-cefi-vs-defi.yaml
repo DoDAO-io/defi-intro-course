@@ -1,0 +1,124 @@
+- uuid: 7a0efc2b-2f7a-4f8d-a4f4-4a2b31db3b3a
+  type: SingleChoice
+  content: What does TradFi stand for?
+  hint: 'Nohint'
+  explanation: >-
+    TradFi stands for Traditional Finance, which refers to the financial system
+    that has existed for many years and is centered around traditional financial
+    institutions.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Traditional Finance
+      key: A
+    - content: Transparent Finance
+      key: B
+    - content: Transitional Finance
+      key: C
+    - content: Trustworthy Finance
+      key: D
+- uuid: 2d249a81-905a-4b1d-8d8c-8a6ea0e6f65f
+  type: SingleChoice
+  content: What is a disadvantage of TradFi related to transaction times?
+  hint: 'Nohint'
+  explanation: >-
+    One of the disadvantages of TradFi is slow transactions, as they can be
+    cumbersome and take several days to complete.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Instant transactions
+      key: A
+    - content: Slow transactions
+      key: B
+    - content: Quick transaction confirmations
+      key: C
+    - content: Real-time transaction tracking
+      key: D
+- uuid: 873f1a62-821a-4d0b-9d9f-b2b4ce7a15d4
+  type: SingleChoice
+  content: Which aspect of TradFi instills a sense of trust and reliability?
+  hint: 'Nohint'
+  explanation: >-
+    TradFi's long and rich history, as it has been in existence for many
+    decades, instills a sense of trust and reliability.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Established history
+      key: A
+    - content: Low fees
+      key: B
+    - content: Fast transactions
+      key: C
+    - content: Decentralized nature
+      key: D
+- uuid: 8fd6cb27-2b7a-4f5a-8c02-cf5a33aa5476
+  type: SingleChoice
+  content: What does CeFi stand for in the context of blockchain?
+  hint: 'Nohint'
+  explanation: >-
+    In the blockchain realm, CeFi stands for Centralized Exchanges, which act as
+    intermediaries between traditional banks and enable users to purchase and
+    store digital currencies.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Crypto-Finance
+      key: A
+    - content: Centralized Exchanges
+      key: B
+    - content: Customized Finance
+      key: C
+    - content: Compliant Finance
+      key: D
+- uuid: 3e3e26d3-d72f-4ecb-bd11-7a64f36b4e4e
+  type: SingleChoice
+  content: What is a notable advantage of centralized exchanges in terms of usability?
+  hint: 'Nohint'
+  explanation: >-
+    A notable advantage of centralized exchanges is their user-friendly
+    interfaces, which are easy to use and understand, making them accessible to
+    a wide range of users.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: User-friendly interface
+      key: A
+    - content: Decentralized control
+      key: B
+    - content: Anonymous transactions
+      key: C
+    - content: No single point of failure
+      key: D
+- uuid: 53e82d9c-cb3d-48c2-aa77-1f6d943ce5f5
+  type: SingleChoice
+  content: What is a disadvantage of centralized exchanges regarding security?
+  hint: 'Nohint'
+  explanation: >-
+    Centralized exchanges are vulnerable to hacking and other security threats,
+    which can result in the loss of users' assets. This is a significant
+    disadvantage in terms of security.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Security risks
+      key: A
+    - content: Enhanced privacy
+      key: B
+    - content: User-controlled private keys
+      key: C
+    - content: Decentralized infrastructure
+      key: D

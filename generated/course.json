@@ -57,26 +57,388 @@
           "title": "Smart Contracts"
         }
       ],
-      "questions": [],
+      "questions": [
+        {
+          "uuid": "7f83a206-8292-4d3d-b3ad-5534a0a4a9a0",
+          "type": "SingleChoice",
+          "content": "What does DeFi stand for in the context of blockchain technology?",
+          "hint": "NoHint",
+          "explanation": "DeFi stands for Decentralized Finance, which refers to a new breed of financial applications built on the blockchain that operate autonomously without human intervention.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Decentralized Finance",
+              "key": "A"
+            },
+            {
+              "content": "Digital Finance",
+              "key": "B"
+            },
+            {
+              "content": "Decentralized Funding",
+              "key": "C"
+            },
+            {
+              "content": "Direct Finance",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "c5f5b4c4-4d53-4c1d-a4ad-8b4d88f1a366",
+          "type": "SingleChoice",
+          "content": "How are trades facilitated in DeFi applications?",
+          "hint": "NoHint",
+          "explanation": "In DeFi applications, trades are facilitated by smart contracts that execute automatically based on predetermined conditions.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Through manual human intervention",
+              "key": "A"
+            },
+            {
+              "content": "By smart contracts that execute automatically based on predetermined conditions",
+              "key": "B"
+            },
+            {
+              "content": "Through centralized exchanges",
+              "key": "C"
+            },
+            {
+              "content": "By direct communication between trading parties",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "3d2f857b-f3e6-4b6d-93b5-372204f25cb1",
+          "type": "SingleChoice",
+          "content": "What are some use cases of DeFi applications beyond trading?",
+          "hint": "NoHint",
+          "explanation": "DeFi applications extend to all aspects of finance, including autonomous lending and borrowing, insurance, investing in startups, new fundraising methods, community buying of patents, and crowdfunding public good projects.",
+          "answerKeys": [
+            "D"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Gaming and entertainment",
+              "key": "A"
+            },
+            {
+              "content": "Supply chain management",
+              "key": "B"
+            },
+            {
+              "content": "Social media platforms",
+              "key": "C"
+            },
+            {
+              "content": "Autonomous lending and borrowing, insurance, investing in startups, new fundraising methods, community buying of patents, and crowdfunding public good projects",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "6b50c6d5-cc57-4f47-9a9d-6f21e833f5d5",
+          "type": "SingleChoice",
+          "content": "What is a significant drawback of centralized financial systems?",
+          "hint": "NoHint",
+          "explanation": "In centralized financial systems, transparency is typically lacking, with crucial information often remaining inaccessible to the public.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "They are highly transparent",
+              "key": "A"
+            },
+            {
+              "content": "They often lack transparency",
+              "key": "B"
+            },
+            {
+              "content": "They are highly flexible",
+              "key": "C"
+            },
+            {
+              "content": "They have no single point of failure",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "1f3e3a48-38a9-4b29-a2f8-0a2a7de78f20",
+          "type": "SingleChoice",
+          "content": "What are the key properties of decentralized systems?",
+          "hint": "NoHint",
+          "explanation": "Key properties of decentralized systems include distributed control, trustlessness, transparency, flexibility, and resilience.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Centralized control, trust-based, opaque, rigid, and vulnerable",
+              "key": "A"
+            },
+            {
+              "content": "Centralized control, trustless, transparent, flexible, and resilient",
+              "key": "B"
+            },
+            {
+              "content": "Distributed control, trustlessness, transparency, flexibility, and resilience",
+              "key": "C"
+            },
+            {
+              "content": "Distributed control, trust-based, opaque, rigid, and vulnerable",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "7a6368e4-4a4d-4d91-9da9-bb1c516b0340",
+          "type": "SingleChoice",
+          "content": "How is trust achieved in a decentralized system?",
+          "hint": "NoHint",
+          "explanation": "In a decentralized system, trust is achieved through the use of cryptographic algorithms that ensure that transactions are valid and secure, even if the parties involved are unknown or untrusted.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Through centralized authorities verifying transactions",
+              "key": "A"
+            },
+            {
+              "content": "Through cryptographic algorithms that ensure transactions are valid and secure",
+              "key": "B"
+            },
+            {
+              "content": "By relying on the reputation of participants in the network",
+              "key": "C"
+            },
+            {
+              "content": "Through a single point of control and validation",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "0e89b5f5-5ca5-4d5e-8de1-6f1c6bceac9d",
+          "type": "SingleChoice",
+          "content": "Why do many developed countries prefer democratic systems over communist systems?",
+          "hint": "NoHint",
+          "explanation": "Developed countries prefer democratic systems because, despite the potential for greater efficiency and speed in a communist government, democratic systems offer more freedom, individual rights, and transparency.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Democratic systems offer more freedom, individual rights, and transparency",
+              "key": "A"
+            },
+            {
+              "content": "Democratic systems are always more efficient and faster",
+              "key": "B"
+            },
+            {
+              "content": "Democratic systems have no drawbacks",
+              "key": "C"
+            },
+            {
+              "content": "Communist systems lack economic stability",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "7e0a1a96-2bb2-4ea3-8f3d-cdd6027af6c9",
+          "type": "SingleChoice",
+          "content": "What is one reason why decentralization is important in financial systems?",
+          "hint": "NoHint",
+          "explanation": "Decentralization is important in financial systems because it promotes transparency, which can facilitate the identification and elimination of flawed and inefficient systems.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "It guarantees the best economic outcomes",
+              "key": "A"
+            },
+            {
+              "content": "It promotes transparency, facilitating the identification and elimination of flawed and inefficient systems",
+              "key": "B"
+            },
+            {
+              "content": "It ensures that all participants have equal control and influence",
+              "key": "C"
+            },
+            {
+              "content": "It prevents any form of corruption or fraud",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "9aa0fdd9-430f-4e0e-9a8b-7e588f6c31f7",
+          "type": "SingleChoice",
+          "content": "What is a potential issue with banks operating on a fractional reserve system?",
+          "hint": "NoHint",
+          "explanation": "A potential issue with banks operating on a fractional reserve system is that it can trigger a \"bank run\" if a large number of customers attempt to withdraw their savings on the same day, potentially resulting in the bank going bankrupt.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Banks always invest the deposited money wisely",
+              "key": "A"
+            },
+            {
+              "content": "Banks can never go bankrupt",
+              "key": "B"
+            },
+            {
+              "content": "It can trigger a \"bank run\" and potentially result in the bank going bankrupt",
+              "key": "C"
+            },
+            {
+              "content": "Customers have full control over their deposited money",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "648e9277-dbd1-45f1-bfea-ff2f11440947",
+          "type": "SingleChoice",
+          "content": "What mechanism does Bitcoin use to achieve consensus and validate transactions?",
+          "hint": "NoHint",
+          "explanation": "Bitcoin uses a proof-of-work consensus mechanism to achieve consensus and validate transactions on its network.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Proof-of-work consensus mechanism",
+              "key": "A"
+            },
+            {
+              "content": "Proof-of-stake consensus mechanism",
+              "key": "B"
+            },
+            {
+              "content": "Delegated proof-of-stake consensus mechanism",
+              "key": "C"
+            },
+            {
+              "content": "Federated Byzantine Agreement",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "5c5f5b5d-15c4-4b4e-93b4-d48d9f0b363f",
+          "type": "SingleChoice",
+          "content": "What is a smart contract and what kind of blockchain allows for their use?",
+          "hint": "NoHint",
+          "explanation": "A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. Ethereum is a blockchain that allows for the use of smart contracts.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "A smart contract is a legal agreement between two parties, and Bitcoin allows for their use",
+              "key": "A"
+            },
+            {
+              "content": "A smart contract is a self-executing contract encoded in code, and Ethereum allows for their use",
+              "key": "B"
+            },
+            {
+              "content": "A smart contract is a digital signature, and Ripple allows for their use",
+              "key": "C"
+            },
+            {
+              "content": "A smart contract is a digital currency, and Cardano allows for their use",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "5a5a5b5a-2a2a-4a4a-8a4a-5a5a5b5a5b5a",
+          "type": "SingleChoice",
+          "content": "What is the primary characteristic of DeFi applications?",
+          "hint": "NoHint",
+          "explanation": "The primary characteristic of DeFi applications is that they run on top of blockchain using smart contracts, with no human intermediaries involved.",
+          "answerKeys": [
+            "D"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "DeFi applications are only focused on cryptocurrency trading",
+              "key": "A"
+            },
+            {
+              "content": "DeFi applications are centralized financial services",
+              "key": "B"
+            },
+            {
+              "content": "DeFi applications are primarily for institutional investors",
+              "key": "C"
+            },
+            {
+              "content": "DeFi applications run on blockchain using smart contracts without human intermediaries",
+              "key": "D"
+            }
+          ]
+        }
+      ],
       "readings": [],
       "summaries": []
     },
     {
-      "key": "why-defi",
       "title": "Why DeFi?",
+      "key": "why-defi",
       "details": "This chapter explains why do we need DeFi.  This chapter covers\n1. Importance of Transparency\n2. Modern Day Requirements\n3. Financial Infrastructure that Blockchain provides\n4. Composability in DeFi\n5. DeFi is a Global Financial System\n\n",
+      "order": 1,
       "explanations": [
         {
           "key": "transparency",
+          "title": "Transparency",
           "shortTitle": "Transparency",
-          "details": "In the world of cryptocurrency, the phrase \"don't trust, verify\" is well-known. This concept does not exist in traditional finance because organizations do not provide access to all of their data, including transaction records, account numbers, active accounts, amount lent, and reserves. \n\nHowever, in the world of Decentralized Finance (DeFi), this information is available on a public blockchain, allowing anyone to access and query the data to understand the current state of affairs. In fact, there are many DeFi projects that offer rewards to developers who can build user-friendly dashboards that provide insights into the system.\n\nEven during a period in 2022 when cryptocurrency prices plummeted by 95%, the top DeFi projects continued to behave as expected. In contrast, centralized crypto exchanges, similar to traditional banks, do not share data and do not offer insurance. Many centralized exchanges suffered financial losses and went bankrupt in 2022, while pure DeFi exchanges fared relatively well.\n\nExample [https://dune.com/browse/dashboards](https://dune.com/browse/dashboards) is a link to dashboards created by the DeFi community about different projects. ",
-          "title": "Transparency"
+          "details": "In the world of cryptocurrency, the phrase \"don't trust, verify\" is well-known. This concept does not exist in traditional finance because organizations do not provide access to all of their data, including transaction records, account numbers, active accounts, amount lent, and reserves. \n\nHowever, in the world of Decentralized Finance (DeFi), this information is available on a public blockchain, allowing anyone to access and query the data to understand the current state of affairs. In fact, there are many DeFi projects that offer rewards to developers who can build user-friendly dashboards that provide insights into the system.\n\nEven during a period in 2022 when cryptocurrency prices plummeted by 95%, the top DeFi projects continued to behave as expected. In contrast, centralized crypto exchanges, similar to traditional banks, do not share data and do not offer insurance. Many centralized exchanges suffered financial losses and went bankrupt in 2022, while pure DeFi exchanges fared relatively well.\n\nExample [https://dune.com/browse/dashboards](https://dune.com/browse/dashboards) is a link to dashboards created by the DeFi community about different projects. "
         },
         {
           "key": "modern-day-requirements",
+          "title": "Modern Day Requirements",
           "shortTitle": "Modern Requirements",
-          "details": "In the modern global world, our requirements from financial applications are quite advanced. We want to be able to transfer money to anyone around the world in seconds, we want to pay incrementally based on the task, or rules. Model day collaborations are also not straightforward. Like in a group of artists that post content on social media, we want to divide the payments based on number of views, quality, or category. Creating these types of applications are very hard in traditional finance.   \n\nDeFi is not just limited to purely finance. It enables the creation of communities that are backed by a common currency. The more business the community can create, the more it benefits each member of the community. There are many projects in crypto world that operate purely on \n\n1. Nouns(https://nouns.wtf) -    The Nouns project is a distinctive undertaking that employs blockchain technology and was launched on August 8, 2021. Nouns NFTs are pixelated representations of a person, place, or thing, and one new Noun is created and auctioned every 24 hours using a trustless system. The entire auction proceeds of each Noun are automatically transferred to the treasury.\n\n    Every owner of a Noun becomes a member of the Nouns DAO and is entitled to one vote in all matters of governance. Noun votes are non-transferable, but can be delegated to another individual as long as the owner still possesses the Noun. Nouns exclusively control the treasury through governance. The group of ten builders who initiated the project are called 'Nounders' and will receive rewards in the form of Nouns, which amounts to 10% of the supply for the first 5 years.\n\n\n2. Constitution DAO - Constitution DAO, a decentralized autonomous organization, raised nearly $47 million in Ether within five days through a social media crowdfunding campaign in mid-November 2021. The group's goal was to use the funds to purchase a rare copy of the U.S. Constitution at a Sotheby's auction and donate it to a non-profit run by DAO donors. Although they were unsuccessful in their bid, their efforts demonstrated the influence of decentralized finance-powered communities. The incident also highlighted an interesting historical parallel of ordinary individuals uniting to challenge a conventional establishment.\n",
-          "title": "Modern Day Requirements"
+          "details": "In the modern global world, our requirements from financial applications are quite advanced. We want to be able to transfer money to anyone around the world in seconds, we want to pay incrementally based on the task, or rules. Model day collaborations are also not straightforward. Like in a group of artists that post content on social media, we want to divide the payments based on number of views, quality, or category. Creating these types of applications are very hard in traditional finance.   \n\nDeFi is not just limited to purely finance. It enables the creation of communities that are backed by a common currency. The more business the community can create, the more it benefits each member of the community. There are many projects in crypto world that operate purely on \n\n1. Nouns(https://nouns.wtf) -    The Nouns project is a distinctive undertaking that employs blockchain technology and was launched on August 8, 2021. Nouns NFTs are pixelated representations of a person, place, or thing, and one new Noun is created and auctioned every 24 hours using a trustless system. The entire auction proceeds of each Noun are automatically transferred to the treasury.\n\n    Every owner of a Noun becomes a member of the Nouns DAO and is entitled to one vote in all matters of governance. Noun votes are non-transferable, but can be delegated to another individual as long as the owner still possesses the Noun. Nouns exclusively control the treasury through governance. The group of ten builders who initiated the project are called 'Nounders' and will receive rewards in the form of Nouns, which amounts to 10% of the supply for the first 5 years.\n\n\n2. Constitution DAO - Constitution DAO, a decentralized autonomous organization, raised nearly $47 million in Ether within five days through a social media crowdfunding campaign in mid-November 2021. The group's goal was to use the funds to purchase a rare copy of the U.S. Constitution at a Sotheby's auction and donate it to a non-profit run by DAO donors. Although they were unsuccessful in their bid, their efforts demonstrated the influence of decentralized finance-powered communities. The incident also highlighted an interesting historical parallel of ordinary individuals uniting to challenge a conventional establishment.\n"
         },
         {
           "key": "financial-infrastructure",
@@ -97,20 +459,198 @@
           "title": "Global Financial System"
         }
       ],
+      "questions": [
+        {
+          "uuid": "22c8ebf6-55a6-47f6-bccc-e6c9af65d11f",
+          "type": "SingleChoice",
+          "content": "What is the main principle behind the phrase \"don't trust, verify\" in the world of cryptocurrency?",
+          "hint": "Nohint",
+          "explanation": "The main principle behind the phrase \"don't trust, verify\" in the world of cryptocurrency is that the public blockchain allows anyone to access and query the data for decentralized finance (DeFi) projects, rather than relying on trust in a centralized authority like traditional finance.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Relying on public data and transparency instead of trust in centralized authorities",
+              "key": "A"
+            },
+            {
+              "content": "Trusting all parties in a transaction without verifying their information",
+              "key": "B"
+            },
+            {
+              "content": "Trusting only verified institutions for transactions",
+              "key": "C"
+            },
+            {
+              "content": "Verifying only the most recent transactions in a blockchain",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "9acba1d2-3cda-42b6-8c92-851d6d0b6f13",
+          "type": "SingleChoice",
+          "content": "Which aspect of DeFi projects helped them fare relatively well compared to centralized exchanges during the 2022 cryptocurrency price plummet?",
+          "hint": "Nohint",
+          "explanation": "DeFi projects fared relatively well during the 2022 cryptocurrency price plummet due to their transparent nature and the availability of information on the public blockchain, which ensured that they continued to behave as expected. Centralized exchanges, on the other hand, suffered losses and bankruptcy due to their lack of transparency and data sharing.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Lower transaction fees",
+              "key": "A"
+            },
+            {
+              "content": "Transparency and data availability on the public blockchain",
+              "key": "B"
+            },
+            {
+              "content": "Higher liquidity",
+              "key": "C"
+            },
+            {
+              "content": "Faster transaction processing times",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "3f6e8d53-19f6-4b9f-9f76-17c24c0d21a4",
+          "type": "SingleChoice",
+          "content": "What is a unique aspect of the Nouns project in the crypto world?",
+          "hint": "Nohint",
+          "explanation": "A unique aspect of the Nouns project in the crypto world is that it creates and auctions one new Noun NFT, a pixelated representation of a person, place, or thing, every 24 hours using a trustless system. The entire auction proceeds of each Noun are automatically transferred to the treasury, and every owner of a Noun becomes a member of the Nouns DAO, entitled to one vote in governance matters.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "It is the first decentralized exchange for NFTs",
+              "key": "A"
+            },
+            {
+              "content": "It is a platform for artists to collaborate and receive payment based on views and quality",
+              "key": "B"
+            },
+            {
+              "content": "It creates and auctions one new Noun NFT every 24 hours and grants owners DAO membership",
+              "key": "C"
+            }
+          ]
+        },
+        {
+          "uuid": "111d02d4-4b53-4f2b-83f4-9ac9c6a1a0d5",
+          "type": "SingleChoice",
+          "content": "Which cloud providers have accelerated the pace of development for internet-based companies?",
+          "hint": "Nohint",
+          "explanation": "Cloud providers such as Amazon Web Services, Google Cloud, and Microsoft Azure have accelerated the pace of development for internet-based companies by eliminating the need for founders to worry about acquiring computer servers for website deployment.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Easy",
+          "choices": [
+            {
+              "content": "IBM Cloud, DigitalOcean, and Oracle Cloud",
+              "key": "A"
+            },
+            {
+              "content": "Amazon Web Services, Google Cloud, and Microsoft Azure",
+              "key": "B"
+            },
+            {
+              "content": "Cloudflare, Heroku, and Vultr",
+              "key": "C"
+            },
+            {
+              "content": "Rackspace, Linode, and OVHcloud",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "2d4c4f36-f0e1-4e4e-bf64-9ed0fd49fd51",
+          "type": "SingleChoice",
+          "content": "What is a key advantage of deploying code on blockchains?",
+          "hint": "Nohint",
+          "explanation": "A key advantage of deploying code on blockchains is the establishment of trust and transparency, as all code deployed on blockchains is publicly available, allowing anyone to scrutinize the code and identify any malicious actors involved at the code level.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Increased security through proprietary algorithms",
+              "key": "A"
+            },
+            {
+              "content": "Faster transaction processing times",
+              "key": "B"
+            },
+            {
+              "content": "Establishing trust and transparency through publicly available code",
+              "key": "C"
+            },
+            {
+              "content": "Greater control over user data",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "0e121b9f-35d1-4a2e-92a0-2cfe7dc46fae",
+          "type": "SingleChoice",
+          "content": "What benefit does the open and collaborative environment in DeFi have compared to Traditional Finance?",
+          "hint": "Nohint",
+          "explanation": "The open and collaborative environment in DeFi results in a higher level of innovation compared to Traditional Finance, as developers from different projects can view each other's code and derive inspiration from it, leading to more rapid advancements and improvements.",
+          "answerKeys": [
+            "D"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Lower transaction fees for users",
+              "key": "A"
+            },
+            {
+              "content": "Increased privacy for users",
+              "key": "B"
+            },
+            {
+              "content": "More secure data storage solutions",
+              "key": "C"
+            },
+            {
+              "content": "Higher level of innovation due to openness and collaboration",
+              "key": "D"
+            }
+          ]
+        }
+      ],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     },
     {
-      "key": "blockchain-intro",
       "title": "Blockchain Intro",
+      "key": "blockchain-intro",
       "details": "Blockchain is a decentralized digital ledger that records transactions across a network of computers. Each block in the chain contains a cryptographic hash of the previous block, a timestamp, and transaction data. The decentralized nature of the technology ensures that no single party has control over the data and makes it resistant to tampering and revision, making it a secure way of storing and transmitting information. This technology forms the backbone of cryptocurrencies like Bitcoin but has potential applications in a variety of industries, including finance, supply chain management, and voting systems.\n\nIn this chapter we will study\n1. Intro To Blockchain\n2. Blockchain Ledger\n3. Hashing\n4. Transactions\n5. Smart Contracts\n\n",
+      "order": 2,
       "explanations": [
         {
-          "key": "what-is-blockchain-1",
+          "key": "what-is-blockchain",
+          "title": "What is Blockchain?",
           "shortTitle": "What is Blockchain?",
-          "details": "Blockchain is a decentralized, distributed digital ledger that records transactions across a network of computers. Transactions are verified and recorded through cryptography, making it nearly impossible for any one user to alter the record retroactively without being detected by the network. The result is a system that is transparent, secure, and resistant to censorship, and one that allows multiple parties to have a shared and consistent view of a database without requiring a central authority. This makes it particularly useful for applications such as cryptocurrencies, digital contracts, and other applications that require a secure and transparent way of tracking transactions.\n\n",
-          "title": "What is Blockchain?"
+          "details": "Blockchain is a decentralized, distributed digital ledger that records transactions across a network of computers. Transactions are verified and recorded through cryptography, making it nearly impossible for any one user to alter the record retroactively without being detected by the network. The result is a system that is transparent, secure, and resistant to censorship, and one that allows multiple parties to have a shared and consistent view of a database without requiring a central authority. This makes it particularly useful for applications such as cryptocurrencies, digital contracts, and other applications that require a secure and transparent way of tracking transactions.\n\n"
         },
         {
           "key": "blockchain-ledger",
@@ -137,20 +677,292 @@
           "title": "Smart Contracts"
         }
       ],
+      "questions": [
+        {
+          "uuid": "7a7a8a8a-1a1a-3a3a-9a9a-7a7a8a8a8a8a",
+          "type": "SingleChoice",
+          "content": "What is the main feature of a blockchain ledger?",
+          "hint": "NoHint",
+          "explanation": "The main feature of a blockchain ledger is that it is a decentralized, distributed digital ledger that records transactions securely and transparently without requiring a central authority.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "It is a centralized digital ledger that requires a central authority to operate",
+              "key": "A"
+            },
+            {
+              "content": "It is a decentralized, distributed digital ledger that records transactions securely and transparently without a central authority",
+              "key": "B"
+            },
+            {
+              "content": "It is a digital ledger that focuses only on cryptocurrency transactions",
+              "key": "C"
+            },
+            {
+              "content": "It is a digital ledger that is only accessible to a limited number of users",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "9b9b9a9a-2b2b-4b4b-8b8b-9b9b9a9a9a9a",
+          "type": "SingleChoice",
+          "content": "What is the role of nodes in a blockchain network?",
+          "hint": "NoHint",
+          "explanation": "Nodes in a blockchain network validate transactions using algorithms built into the blockchain protocol and maintain a copy of the entire blockchain. They also participate in the consensus process to ensure the ledger is consistent and tamper-proof.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Nodes are responsible for initiating transactions on the blockchain",
+              "key": "A"
+            },
+            {
+              "content": "Nodes are responsible for providing a central authority to manage the blockchain",
+              "key": "B"
+            },
+            {
+              "content": "Nodes validate transactions, maintain a copy of the blockchain, and participate in the consensus process",
+              "key": "C"
+            },
+            {
+              "content": "Nodes are only responsible for storing a copy of the blockchain for backup purposes",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "6c6c6b6b-3c3c-4c4c-8c8c-6c6c6b6b6b6b",
+          "type": "SingleChoice",
+          "content": "How does a blockchain ensure its ledger is consistent and tamper-proof?",
+          "hint": "NoHint",
+          "explanation": "A blockchain ensures its ledger is consistent and tamper-proof by requiring all nodes to reach consensus on the state of the ledger before any new block can be added. This makes it highly unlikely for any attempt to alter a block to succeed, as it would require a majority of nodes to agree to the change.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "By requiring all nodes to reach consensus on the state of the ledger before any new block can be added",
+              "key": "A"
+            },
+            {
+              "content": "By relying on a central authority to validate and approve all changes to the ledger",
+              "key": "B"
+            },
+            {
+              "content": "By allowing only a limited number of users to access and modify the ledger",
+              "key": "C"
+            },
+            {
+              "content": "By using a private blockchain that is only accessible to a select group of trusted users",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "1d1d1e1e-4e4e-5e5e-8e8e-1d1d1e1e1e1e",
+          "type": "SingleChoice",
+          "content": "What is the main purpose of hashing in blockchain technology?",
+          "hint": "NoHint",
+          "explanation": "The main purpose of hashing in blockchain technology is to ensure the integrity and security of the data stored in the blockchain by creating a chain of hashes that reference each other and can detect any changes to the data.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To protect the identity of the individuals behind the addresses on the blockchain",
+              "key": "A"
+            },
+            {
+              "content": "To ensure the integrity and security of the data stored in the blockchain",
+              "key": "B"
+            },
+            {
+              "content": "To create a centralized authority for managing the blockchain network",
+              "key": "C"
+            },
+            {
+              "content": "To enable faster and more efficient transactions on the blockchain",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "2e2e2f2f-5f5f-6f6f-8f8f-2e2e2f2f2f2f",
+          "type": "SingleChoice",
+          "content": "What is a key step in a typical transaction on a blockchain?",
+          "hint": "NoHint",
+          "explanation": "A key step in a typical transaction on a blockchain is the sender creating a new transaction with the details of the recipient, the amount to be transferred, and the sender's private key to sign the transaction.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The sender creates a new transaction with the recipient's details, the amount to be transferred, and the sender's private key to sign the transaction",
+              "key": "A"
+            },
+            {
+              "content": "The sender sends the transaction directly to the recipient, bypassing the blockchain network",
+              "key": "B"
+            },
+            {
+              "content": "The sender and recipient negotiate the transaction terms privately before committing it to the blockchain",
+              "key": "C"
+            },
+            {
+              "content": "The sender requests permission from a central authority to initiate the transaction",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "3f3f3g3g-6g6g-7g7g-8g8g-3f3f3g3g3g3g",
+          "type": "SingleChoice",
+          "content": "In a public blockchain network like Bitcoin, what aspect of transactions is transparent?",
+          "hint": "NoHint",
+          "explanation": "In a public blockchain network like Bitcoin, transactions are transparent and can be seen by anyone. However, the identity of the individuals behind the addresses remains anonymous, as only the address is recorded on the blockchain.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The transactions are transparent and can be seen by anyone",
+              "key": "A"
+            },
+            {
+              "content": "The identity of the individuals behind the addresses is transparent and can be seen by anyone",
+              "key": "B"
+            },
+            {
+              "content": "The private keys of the sender and recipient are transparent and can be seen by anyone",
+              "key": "C"
+            },
+            {
+              "content": "The negotiation process between the sender and recipient is transparent and can be seen by anyone",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "4g4g4h4h-7h7h-8h8h-9h9h-4g4g4h4h4h4h",
+          "type": "SingleChoice",
+          "content": "What is a smart contract?",
+          "hint": "NoHint",
+          "explanation": "A smart contract is a self-executing contract with the terms of the agreement directly written into code. They are a fundamental building block of blockchain technology and are used to automate the process of executing the terms of a contract when certain conditions are met.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "A legal document that outlines the terms and conditions of a business arrangement",
+              "key": "A"
+            },
+            {
+              "content": "A self-executing contract with the terms of the agreement directly written into code",
+              "key": "B"
+            },
+            {
+              "content": "A digital certificate used to authenticate the identity of a user on a blockchain network",
+              "key": "C"
+            },
+            {
+              "content": "A private key used to sign and authorize transactions on a blockchain network",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "5h5h5i5i-8i8i-9i9i-0j0j-5h5h5i5i5i5i",
+          "type": "SingleChoice",
+          "content": "How do smart contracts operate on the blockchain?",
+          "hint": "NoHint",
+          "explanation": "Smart contracts are stored on the blockchain and are executed automatically by the network. They are transparent, secure, and tamper-proof, as the code and terms of the contract are visible to everyone on the network.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Stored on the blockchain and executed automatically by the network, with code and terms visible to everyone",
+              "key": "A"
+            },
+            {
+              "content": "Stored in a centralized database and executed by a designated authority",
+              "key": "B"
+            },
+            {
+              "content": "Kept secret between the parties involved in the contract, with only the results visible on the network",
+              "key": "C"
+            },
+            {
+              "content": "Operate outside of the blockchain network, with transactions only recorded after the contract is executed",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "6i6i6j6j-9j9j-0k0k-1l1l-6i6i6j6j6j6j",
+          "type": "SingleChoice",
+          "content": "Which of the following processes can be automated using smart contracts?",
+          "hint": "NoHint",
+          "explanation": "Smart contracts can be used to automate various processes, such as transferring funds between parties when certain conditions are met, managing the ownership of assets, automating the process of voting, and enforcing the terms of an agreement.",
+          "answerKeys": [
+            "D"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Creating new cryptocurrencies",
+              "key": "A"
+            },
+            {
+              "content": "Generating cryptographic hashes for blockchain transactions",
+              "key": "B"
+            },
+            {
+              "content": "Mining new blocks for a blockchain network",
+              "key": "C"
+            },
+            {
+              "content": "Transferring funds when conditions are met, managing asset ownership, automating voting, and enforcing agreement terms",
+              "key": "D"
+            }
+          ]
+        }
+      ],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     },
     {
-      "key": "tokens",
       "title": "Tokens",
+      "key": "tokens",
       "details": "Blockchain tokens are digital assets that are built on top of a blockchain platform. They are used as a unit of value and can be used to represent assets such as property, stocks, or even virtual items within a game or platform.\n\n",
+      "order": 3,
       "explanations": [
         {
           "key": "what-are-tokens",
+          "title": "What are Tokens?",
           "shortTitle": "What are Tokens?",
-          "details": "Blockchain tokens are digital assets that are built on top of a blockchain platform. They are used as a unit of value and can be used to represent assets such as property, stocks, or even virtual items within a game or platform.\n\nThe use of blockchain tokens offers several advantages over traditional forms of asset representation and transfer:\n\n1. Decentralization: Blockchain tokens are stored on a decentralized network, which means that they are not controlled by any single entity. This makes them more secure and resistant to tampering or censorship.\n2. Transparency: The transactions and transfers of blockchain tokens are publicly visible on the blockchain, creating a transparent and auditable record of all activity.\n3. Efficiency: The use of blockchain technology enables fast, secure and efficient transfers of tokens, without the need for intermediaries or middlemen.\n4. Programmability: Blockchain tokens can be programmed to include rules and logic, such as automatic transfer of tokens when certain conditions are met, making them more versatile and customizable.\n5. Accessibility: Blockchain tokens can be easily bought, sold and traded on various online exchanges, making them more accessible to a wider range of users.",
-          "title": "What are Tokens?"
+          "details": "Blockchain tokens are digital assets that are built on top of a blockchain platform. They are used as a unit of value and can be used to represent assets such as property, stocks, or even virtual items within a game or platform.\n\nThe use of blockchain tokens offers several advantages over traditional forms of asset representation and transfer:\n\n1. Decentralization: Blockchain tokens are stored on a decentralized network, which means that they are not controlled by any single entity. This makes them more secure and resistant to tampering or censorship.\n2. Transparency: The transactions and transfers of blockchain tokens are publicly visible on the blockchain, creating a transparent and auditable record of all activity.\n3. Efficiency: The use of blockchain technology enables fast, secure and efficient transfers of tokens, without the need for intermediaries or middlemen.\n4. Programmability: Blockchain tokens can be programmed to include rules and logic, such as automatic transfer of tokens when certain conditions are met, making them more versatile and customizable.\n5. Accessibility: Blockchain tokens can be easily bought, sold and traded on various online exchanges, making them more accessible to a wider range of users."
         },
         {
           "key": "erc-20",
@@ -171,60 +983,604 @@
           "title": "Token Types"
         }
       ],
+      "questions": [
+        {
+          "uuid": "1a1a1b1b-2b2b-3b3b-4b4b-1a1a1b1b1b1b",
+          "type": "SingleChoice",
+          "content": "What are blockchain tokens?",
+          "hint": "NoHint",
+          "explanation": "Blockchain tokens are digital assets built on top of a blockchain platform. They are used as a unit of value and can represent assets such as property, stocks, or even virtual items within a game or platform.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Digital assets built on top of a blockchain platform used as a unit of value and to represent assets",
+              "key": "A"
+            },
+            {
+              "content": "Unique codes used to secure blockchain transactions and protect user privacy",
+              "key": "B"
+            },
+            {
+              "content": "Files that contain the code and rules for executing smart contracts on a blockchain network",
+              "key": "C"
+            },
+            {
+              "content": "Digital representations of physical items, such as artwork or collectibles, stored on a blockchain",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "2b2b2c2c-3c3c-4c4c-5c5c-2b2b2c2c2c2c",
+          "type": "SingleChoice",
+          "content": "Which of the following is NOT an advantage of using blockchain tokens?",
+          "hint": "NoHint",
+          "explanation": "Generating cryptographic hashes for blockchain transactions is not an advantage of using blockchain tokens. Blockchain tokens offer advantages such as decentralization, transparency, efficiency, programmability, and accessibility.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Decentralization",
+              "key": "A"
+            },
+            {
+              "content": "Generating cryptographic hashes for blockchain transactions",
+              "key": "B"
+            },
+            {
+              "content": "Efficiency",
+              "key": "C"
+            },
+            {
+              "content": "Accessibility",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "3c3c3d3d-4d4d-5d5d-6d6d-3c3c3d3d3d3d",
+          "type": "SingleChoice",
+          "content": "What is the purpose of the ERC-20 standard?",
+          "hint": "NoHint",
+          "explanation": "The ERC-20 standard defines a common set of rules for Ethereum tokens to follow, allowing developers to easily create and deploy new tokens on the Ethereum network. It ensures compatibility between tokens and makes it easier for developers to build applications that can interact with multiple types of tokens.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To encrypt data stored on the Ethereum blockchain",
+              "key": "A"
+            },
+            {
+              "content": "To define a common set of rules for Ethereum tokens to follow",
+              "key": "B"
+            },
+            {
+              "content": "To manage the supply of Ether, the native currency of the Ethereum network",
+              "key": "C"
+            },
+            {
+              "content": "To establish a consensus mechanism for the Ethereum network",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "4d4d4e4e-5e5e-6e6e-7e7e-4d4d4e4e4e4e",
+          "type": "SingleChoice",
+          "content": "Which of the following is NOT a common use for ERC-20 tokens?",
+          "hint": "NoHint",
+          "explanation": "A consensus mechanism for the Ethereum network is not a common use for ERC-20 tokens. Common uses for ERC-20 tokens include stablecoins, security tokens, utility tokens, decentralized finance (DeFi) applications, and gaming.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Stablecoins",
+              "key": "A"
+            },
+            {
+              "content": "Security Tokens",
+              "key": "B"
+            },
+            {
+              "content": "Consensus mechanism for the Ethereum network",
+              "key": "C"
+            },
+            {
+              "content": "Decentralized finance (DeFi) applications",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "5e5e5f5f-6f6f-7f7f-8f8f-5e5e5f5f5f5f",
+          "type": "SingleChoice",
+          "content": "What makes ERC-721 tokens unique compared to other ERC token types?",
+          "hint": "NoHint",
+          "explanation": "ERC-721 tokens are non-fungible tokens (NFTs), which means that each token is unique and cannot be replaced or divided into smaller units. They are commonly used for collectibles, such as virtual art and other digital assets.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "They are used for stablecoins",
+              "key": "A"
+            },
+            {
+              "content": "Each token is unique and cannot be replaced or divided into smaller units",
+              "key": "B"
+            },
+            {
+              "content": "They can create both fungible and non-fungible tokens within a single smart contract",
+              "key": "C"
+            },
+            {
+              "content": "They are an improvement on the ERC-20 standard with improved security and efficiency",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "6f6f6g6g-7g7g-8g8g-9g9g-6f6f6g6g6g6g",
+          "type": "SingleChoice",
+          "content": "What is the main advantage of the ERC-1155 token standard?",
+          "hint": "NoHint",
+          "explanation": "The main advantage of the ERC-1155 token standard is that it allows for the creation of both fungible and non-fungible tokens within a single smart contract. This makes it more efficient and cost-effective for developers to create and manage multiple types of tokens.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Each token is unique and cannot be replaced or divided into smaller units",
+              "key": "A"
+            },
+            {
+              "content": "They are used for stablecoins",
+              "key": "B"
+            },
+            {
+              "content": "Allows for the creation of both fungible and non-fungible tokens within a single smart contract",
+              "key": "C"
+            },
+            {
+              "content": "They are an improvement on the ERC-20 standard with improved security and efficiency",
+              "key": "D"
+            }
+          ]
+        }
+      ],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     },
     {
-      "key": "wallets",
       "title": "Wallets",
+      "key": "wallets",
       "details": "A blockchain wallet is a digital wallet that enables users to securely store, manage, and transfer digital assets using blockchain technology. The assets can include cryptocurrencies like Bitcoin, Ethereum, and others.\n\nThe wallet stores the user's private keys, which are used to sign transactions and provide access to the assets stored in the wallet. The private keys are stored on the user's device and are encrypted to ensure their security.\n\nA blockchain wallet allows users to send and receive assets, view their transaction history, and manage multiple assets within a single platform. The transactions on the blockchain are recorded on a public ledger, making it transparent and secure, and reducing the risk of fraud and hacking.",
+      "order": 4,
       "explanations": [
         {
           "key": "working",
+          "title": "Working",
           "shortTitle": "Working",
-          "details": "A cryptocurrency wallet is a digital wallet that stores the private and public keys of a user's cryptocurrency holdings. These keys are used to interact with the blockchain of a particular cryptocurrency and are necessary to access, send, or receive that cryptocurrency.\n\nWhen a user wants to send cryptocurrency to another user, they initiate a transaction on their wallet. The transaction is broadcast to the network and verified by network nodes. Once the transaction is verified, it is added to the blockchain, and the sender's balance is decreased, while the receiver's balance is increased.\n\nThe private key stored in the wallet must be kept secure, as it allows access to the cryptocurrency held in the wallet. It is the user's responsibility to keep their private key safe, as there is no central authority that can recover a lost or stolen private key.\n\nThere are several types of cryptocurrency wallets, including software wallets, hardware wallets, and paper wallets. Each type of wallet has its own advantages and disadvantages, and users should choose a wallet that suits their needs based on factors such as security, convenience, and accessibility.",
-          "title": "Working"
+          "details": "A cryptocurrency wallet is a digital wallet that stores the private and public keys of a user's cryptocurrency holdings. These keys are used to interact with the blockchain of a particular cryptocurrency and are necessary to access, send, or receive that cryptocurrency.\n\nWhen a user wants to send cryptocurrency to another user, they initiate a transaction on their wallet. The transaction is broadcast to the network and verified by network nodes. Once the transaction is verified, it is added to the blockchain, and the sender's balance is decreased, while the receiver's balance is increased.\n\nThe private key stored in the wallet must be kept secure, as it allows access to the cryptocurrency held in the wallet. It is the user's responsibility to keep their private key safe, as there is no central authority that can recover a lost or stolen private key.\n\nThere are several types of cryptocurrency wallets, including software wallets, hardware wallets, and paper wallets. Each type of wallet has its own advantages and disadvantages, and users should choose a wallet that suits their needs based on factors such as security, convenience, and accessibility."
         },
         {
           "key": "custodian-and-non-custodian-wallets",
+          "title": "Custodian and Non Custodian Wallets",
           "shortTitle": "Wallet Types",
-          "details": "### Custodian Wallets\nCustodian and non-custodian wallets are two types of cryptocurrency wallets that differ in the way they manage the private keys of users.\n\nCustodian wallets are cryptocurrency wallets where the private keys are managed by a third-party, usually a cryptocurrency exchange or financial services company. This means that the company has control over the user's funds and is responsible for securing them. Examples of custodian wallets include Coinbase, Binance, and Kraken.\n\n### Non Custodian Wallets\nNon-custodian wallets are cryptocurrency wallets where the user holds their own private keys. This means that the user has full control over their funds and is responsible for securing their own private keys. Examples of non-custodian wallets include hardware wallets like Trezor and Ledger, and software wallets like MetaMask and TrustWallet.\n\n\n### Difference\nThe main difference between the two is control over the private keys and security. With a custodian wallet, the user is relying on the security measures put in place by the third-party to protect their funds, while with a non-custodian wallet, the user has full control and responsibility over the security of their funds.\n\n### Not your keys not your coins\n\"Not your keys, not your coins\" is a common phrase used in the cryptocurrency community to emphasize the importance of having control over your own private keys.\n\nThe phrase \"not your keys, not your coins\" is a reminder that if you do not have control over your private keys, you do not have full control over your cryptocurrency assets. This is because someone else, such as a malicious actor or a hacked exchange, could gain access to your funds and steal them.\n\nTherefore, it is important for individuals who own cryptocurrencies to take steps to secure their private keys and to avoid leaving their assets on centralized exchanges for long periods of time. Instead, they can store their private keys on a secure hardware wallet or use a non-custodial software wallet to have greater control over their assets.",
-          "title": "Custodian and Non Custodian Wallets"
+          "details": "### Custodian Wallets\nCustodian and non-custodian wallets are two types of cryptocurrency wallets that differ in the way they manage the private keys of users.\n\nCustodian wallets are cryptocurrency wallets where the private keys are managed by a third-party, usually a cryptocurrency exchange or financial services company. This means that the company has control over the user's funds and is responsible for securing them. Examples of custodian wallets include Coinbase, Binance, and Kraken.\n\n### Non Custodian Wallets\nNon-custodian wallets are cryptocurrency wallets where the user holds their own private keys. This means that the user has full control over their funds and is responsible for securing their own private keys. Examples of non-custodian wallets include hardware wallets like Trezor and Ledger, and software wallets like MetaMask and TrustWallet.\n\n\n### Difference\nThe main difference between the two is control over the private keys and security. With a custodian wallet, the user is relying on the security measures put in place by the third-party to protect their funds, while with a non-custodian wallet, the user has full control and responsibility over the security of their funds.\n\n### Not your keys not your coins\n\"Not your keys, not your coins\" is a common phrase used in the cryptocurrency community to emphasize the importance of having control over your own private keys.\n\nThe phrase \"not your keys, not your coins\" is a reminder that if you do not have control over your private keys, you do not have full control over your cryptocurrency assets. This is because someone else, such as a malicious actor or a hacked exchange, could gain access to your funds and steal them.\n\nTherefore, it is important for individuals who own cryptocurrencies to take steps to secure their private keys and to avoid leaving their assets on centralized exchanges for long periods of time. Instead, they can store their private keys on a secure hardware wallet or use a non-custodial software wallet to have greater control over their assets."
+        }
+      ],
+      "questions": [
+        {
+          "uuid": "5e79b2d1-5bb6-4e9a-a30b-5d6e5e6d34ec",
+          "type": "SingleChoice",
+          "content": "What is the main purpose of a cryptocurrency wallet?",
+          "hint": "Nohint",
+          "explanation": "The main purpose of a cryptocurrency wallet is to store the private and public keys of a user's cryptocurrency holdings, which are necessary to access, send, or receive that cryptocurrency.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Storing private and public keys for cryptocurrency holdings",
+              "key": "A"
+            },
+            {
+              "content": "Providing real-time price updates of cryptocurrencies",
+              "key": "B"
+            },
+            {
+              "content": "Facilitating the trading of cryptocurrencies on exchanges",
+              "key": "C"
+            },
+            {
+              "content": "Mining new cryptocurrencies",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "667f9ac5-6e5f-4573-9d5e-ebf84b8ed0a0",
+          "type": "SingleChoice",
+          "content": "What happens to the sender's and receiver's balances when a cryptocurrency transaction takes place?",
+          "hint": "Nohint",
+          "explanation": "When a cryptocurrency transaction takes place, the sender's balance is decreased, while the receiver's balance is increased.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Both balances remain unchanged",
+              "key": "A"
+            },
+            {
+              "content": "Both balances are decreased",
+              "key": "B"
+            },
+            {
+              "content": "The sender's balance is decreased, and the receiver's balance is increased",
+              "key": "C"
+            },
+            {
+              "content": "The sender's balance is increased, and the receiver's balance is decreased",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "540ebfcb-8ea0-4a9d-9c65-2b8ab98e709d",
+          "type": "SingleChoice",
+          "content": "Which type of cryptocurrency wallet should users choose based on factors such as security, convenience, and accessibility?",
+          "hint": "Nohint",
+          "explanation": "Users should choose a wallet that suits their needs based on factors such as security, convenience, and accessibility. There are several types of cryptocurrency wallets, including software wallets, hardware wallets, and paper wallets, each with its own advantages and disadvantages.",
+          "answerKeys": [
+            "D"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Software wallets only",
+              "key": "A"
+            },
+            {
+              "content": "Hardware wallets only",
+              "key": "B"
+            },
+            {
+              "content": "Paper wallets only",
+              "key": "C"
+            },
+            {
+              "content": "A wallet that suits their needs based on factors like security, convenience, and accessibility",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "2b53c9c9-9a3d-4f3c-b6dd-2696af0e6b18",
+          "type": "SingleChoice",
+          "content": "What is the main difference between custodian and non-custodian wallets?",
+          "hint": "Nohint",
+          "explanation": "The main difference between custodian and non-custodian wallets is the control over the private keys and security. With a custodian wallet, the user relies on the third-party's security measures, while with a non-custodian wallet, the user has full control and responsibility over the security of their funds.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Control over the private keys and security",
+              "key": "A"
+            },
+            {
+              "content": "The number of supported cryptocurrencies",
+              "key": "B"
+            },
+            {
+              "content": "The transaction fees and costs",
+              "key": "C"
+            },
+            {
+              "content": "The type of user interface and features",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "8a4b4f92-57c5-4aee-8a3d-d3ccf5a5a5fd",
+          "type": "SingleChoice",
+          "content": "What type of wallet is typically provided by cryptocurrency exchanges like Coinbase, Binance, and Kraken?",
+          "hint": "Nohint",
+          "explanation": "Cryptocurrency exchanges like Coinbase, Binance, and Kraken typically provide custodian wallets, where they manage the private keys on behalf of the user and are responsible for securing the user's funds.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Custodian wallets",
+              "key": "A"
+            },
+            {
+              "content": "Non-custodian wallets",
+              "key": "B"
+            },
+            {
+              "content": "Hardware wallets",
+              "key": "C"
+            },
+            {
+              "content": "Paper wallets",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "5e6d60ff-9a9c-4ab6-9a1b-4e4a4c2aef37",
+          "type": "SingleChoice",
+          "content": "What does the phrase \"not your keys, not your coins\" emphasize in the cryptocurrency community?",
+          "hint": "Nohint",
+          "explanation": "The phrase \"not your keys, not your coins\" emphasizes the importance of having control over your own private keys in the cryptocurrency community. If you do not control your private keys, you do not have full control over your cryptocurrency assets, and they may be vulnerable to theft or loss.",
+          "answerKeys": [
+            "C"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The need for insurance on cryptocurrency holdings",
+              "key": "A"
+            },
+            {
+              "content": "The importance of diversifying cryptocurrency investments",
+              "key": "B"
+            },
+            {
+              "content": "The importance of having control over your own private keys",
+              "key": "C"
+            },
+            {
+              "content": "The benefits of using custodian wallets",
+              "key": "D"
+            }
+          ]
         }
       ],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     },
     {
-      "key": "tradfi-vs-cefi-vs-defi",
       "title": "TradFi vs CeFi vs DeFi",
+      "key": "tradfi-vs-cefi-vs-defi",
       "details": "- TradFi - TradFi stands for \"Traditional Finance\", which refers to the traditional financial services and institutions, such as banks, insurance companies, and investment firms, that have been around for many decades. \n- CeFi - Centralized exchanges (CEXs) in the cryptocurrency world operate on the premise that all crypto trading transactions are managed and executed through a central platform in the realm of centralized finance. Notable examples of centralized finance companies include Binance, Coinbase, and Kraken.\n- DeFi - DeFi, short for Decentralized Finance, refers to financial applications that operate without the need for intermediaries like banks and brokerages. These applications are powered by smart contracts, which are computer codes that automatically execute based on predefined conditions.\n",
+      "order": 5,
       "explanations": [
         {
           "key": "tradfi",
+          "title": "TradFi",
           "shortTitle": "TradFi",
-          "details": "TradFi, or Traditional Finance, refers to the financial system that has existed for many years and is centered around traditional financial institutions such as banks, stock exchanges, insurance companies, and others.\n\n### Advantages\nAdvantages of TradFi include:\n- Established history: TradFi has a long and rich history and has been in existence for many decades, which instills a sense of trust and reliability.\n- Proven systems: The systems and processes used in TradFi have been tried and tested over time and have proven to be effective.\n- Wide range of options: TradFi offers a wide range of financial products and services in one place, providing consumers with many options to choose from.\n\n### Disadvantages\nDisadvantages of TradFi include:\n- High fees: Some financial products and services offered by TradFi institutions may incur high and unnecessary fees, which can add up over time.\n- Slow transactions: Transactions within the TradFi system can be slow and cumbersome, taking several days to complete.\n- Inflationary currencies: The currencies used in TradFi, such as fiat currencies, are often subject to inflation, which can erode the value of people's savings over time.",
-          "title": "TradFi"
+          "details": "TradFi, or Traditional Finance, refers to the financial system that has existed for many years and is centered around traditional financial institutions such as banks, stock exchanges, insurance companies, and others.\n\n### Advantages\nAdvantages of TradFi include:\n- Established history: TradFi has a long and rich history and has been in existence for many decades, which instills a sense of trust and reliability.\n- Proven systems: The systems and processes used in TradFi have been tried and tested over time and have proven to be effective.\n- Wide range of options: TradFi offers a wide range of financial products and services in one place, providing consumers with many options to choose from.\n\n### Disadvantages\nDisadvantages of TradFi include:\n- High fees: Some financial products and services offered by TradFi institutions may incur high and unnecessary fees, which can add up over time.\n- Slow transactions: Transactions within the TradFi system can be slow and cumbersome, taking several days to complete.\n- Inflationary currencies: The currencies used in TradFi, such as fiat currencies, are often subject to inflation, which can erode the value of people's savings over time."
         },
         {
           "key": "cefi",
-          "shortTitle": "CeFi",
-          "details": "In the blockchain realm, CeFi stands for Centralized Exchanges. These are typically the first stop for individuals who are new to the world of cryptocurrency. They act as intermediaries between traditional banks and enable users to purchase and store digital currencies. However, it's crucial to remember that these centralized exchanges retain control over the private keys of their users' accounts. Sadly, many of these exchanges went bankrupt in 2022, resulting in the loss of funds for their users.\n\n\n### Advantages of centralized exchanges include:\n\n- User-friendly interface: CEXs often have user-friendly interfaces that are easy to use and understand, making them accessible to a wide range of users.\n- High liquidity: CEXs typically have high liquidity, meaning that users can buy and sell cryptocurrencies quickly and easily.\n- Wide range of cryptocurrencies: CEXs often offer a wide range of cryptocurrencies, making it easy for users to find the assets they are looking for.\n- Customer support: CEXs often have dedicated customer support teams that are available to help users with any issues or questions they may have.\n\n### Disadvantages of centralized exchanges include:\n- Security risks: Centralized exchanges are vulnerable to hacking and other security threats, which can result in the loss of users' assets.\n- Single point of failure: Since CEXs are controlled by a single entity, they represent a single point of failure, meaning that if the exchange fails, users may lose access to their assets.\n- Lack of control: Users do not have direct control over their assets when they are stored on a centralized exchange, as they are stored on the exchange's servers.\n- Privacy concerns: CEXs often require users to provide personal information, which can be vulnerable to misuse or theft.",
-          "title": "CeFi"
+          "title": "CeFi (Centralized Finance)",
+          "shortTitle": "CeFi - Centralized",
+          "details": "In the blockchain realm, CeFi stands for Centralized Exchanges. These are typically the first stop for individuals who are new to the world of cryptocurrency. They act as intermediaries between traditional banks and enable users to purchase and store digital currencies. However, it's crucial to remember that these centralized exchanges retain control over the private keys of their users' accounts. Sadly, many of these exchanges went bankrupt in 2022, resulting in the loss of funds for their users.\n\n\n### Advantages of centralized exchanges include:\n\n- User-friendly interface: CEXs often have user-friendly interfaces that are easy to use and understand, making them accessible to a wide range of users.\n- High liquidity: CEXs typically have high liquidity, meaning that users can buy and sell cryptocurrencies quickly and easily.\n- Wide range of cryptocurrencies: CEXs often offer a wide range of cryptocurrencies, making it easy for users to find the assets they are looking for.\n- Customer support: CEXs often have dedicated customer support teams that are available to help users with any issues or questions they may have.\n\n### Disadvantages of centralized exchanges include:\n- Security risks: Centralized exchanges are vulnerable to hacking and other security threats, which can result in the loss of users' assets.\n- Single point of failure: Since CEXs are controlled by a single entity, they represent a single point of failure, meaning that if the exchange fails, users may lose access to their assets.\n- Lack of control: Users do not have direct control over their assets when they are stored on a centralized exchange, as they are stored on the exchange's servers.\n- Privacy concerns: CEXs often require users to provide personal information, which can be vulnerable to misuse or theft."
         },
         {
           "key": "defi",
-          "shortTitle": "DeFi",
-          "details": "### Advantages\nAdvantages of DeFi over traditional finance:\n- Decentralization: DeFi operates on decentralized blockchain networks, meaning there is no need for intermediaries such as banks or financial institutions. This reduces the risk of centralized points of failure and increases transparency and security.\n- Accessibility: DeFi is accessible to anyone with an internet connection, making financial services available to individuals who might not have access to traditional banking services.\n- Lower barriers to entry: DeFi allows anyone to participate in financial services, regardless of their location or financial history.\n- Censorship-resistant: DeFi operates on decentralized networks, which are resistant to censorship or interference from governments or other entities.\n- Programmable money: DeFi provides the ability to program money and automate financial transactions, enabling new and innovative use cases.\n\n### Disadvantages\nDisadvantages of DeFi over traditional finance:\n- Lack of regulation: DeFi operates in an unregulated environment, which can make it more vulnerable to scams and fraud.\n- Technical complexity: DeFi requires a strong understanding of blockchain technology and can be difficult for the average person to use.\n- Liquidity: Some DeFi protocols and markets are not yet as liquid as traditional financial markets, which can result in higher volatility and price swings.\n- Limited scalability: The scalability of DeFi is limited by the underlying blockchain technology, which can result in slower transaction times and higher fees.\n- Security concerns: DeFi operates in a relatively new and untested environment, which raises concerns about the security of funds and the potential for hacking or theft.",
-          "title": "DeFi"
+          "title": "DeFi - Decentralized Finance",
+          "shortTitle": "DeFi - Decentralized",
+          "details": "### Advantages\nAdvantages of DeFi over traditional finance:\n- Decentralization: DeFi operates on decentralized blockchain networks, meaning there is no need for intermediaries such as banks or financial institutions. This reduces the risk of centralized points of failure and increases transparency and security.\n- Accessibility: DeFi is accessible to anyone with an internet connection, making financial services available to individuals who might not have access to traditional banking services.\n- Lower barriers to entry: DeFi allows anyone to participate in financial services, regardless of their location or financial history.\n- Censorship-resistant: DeFi operates on decentralized networks, which are resistant to censorship or interference from governments or other entities.\n- Programmable money: DeFi provides the ability to program money and automate financial transactions, enabling new and innovative use cases.\n\n### Disadvantages\nDisadvantages of DeFi over traditional finance:\n- Lack of regulation: DeFi operates in an unregulated environment, which can make it more vulnerable to scams and fraud.\n- Technical complexity: DeFi requires a strong understanding of blockchain technology and can be difficult for the average person to use.\n- Liquidity: Some DeFi protocols and markets are not yet as liquid as traditional financial markets, which can result in higher volatility and price swings.\n- Limited scalability: The scalability of DeFi is limited by the underlying blockchain technology, which can result in slower transaction times and higher fees.\n- Security concerns: DeFi operates in a relatively new and untested environment, which raises concerns about the security of funds and the potential for hacking or theft."
+        }
+      ],
+      "questions": [
+        {
+          "uuid": "7a0efc2b-2f7a-4f8d-a4f4-4a2b31db3b3a",
+          "type": "SingleChoice",
+          "content": "What does TradFi stand for?",
+          "hint": "Nohint",
+          "explanation": "TradFi stands for Traditional Finance, which refers to the financial system that has existed for many years and is centered around traditional financial institutions.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Traditional Finance",
+              "key": "A"
+            },
+            {
+              "content": "Transparent Finance",
+              "key": "B"
+            },
+            {
+              "content": "Transitional Finance",
+              "key": "C"
+            },
+            {
+              "content": "Trustworthy Finance",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "2d249a81-905a-4b1d-8d8c-8a6ea0e6f65f",
+          "type": "SingleChoice",
+          "content": "What is a disadvantage of TradFi related to transaction times?",
+          "hint": "Nohint",
+          "explanation": "One of the disadvantages of TradFi is slow transactions, as they can be cumbersome and take several days to complete.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Instant transactions",
+              "key": "A"
+            },
+            {
+              "content": "Slow transactions",
+              "key": "B"
+            },
+            {
+              "content": "Quick transaction confirmations",
+              "key": "C"
+            },
+            {
+              "content": "Real-time transaction tracking",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "873f1a62-821a-4d0b-9d9f-b2b4ce7a15d4",
+          "type": "SingleChoice",
+          "content": "Which aspect of TradFi instills a sense of trust and reliability?",
+          "hint": "Nohint",
+          "explanation": "TradFi's long and rich history, as it has been in existence for many decades, instills a sense of trust and reliability.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Established history",
+              "key": "A"
+            },
+            {
+              "content": "Low fees",
+              "key": "B"
+            },
+            {
+              "content": "Fast transactions",
+              "key": "C"
+            },
+            {
+              "content": "Decentralized nature",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "8fd6cb27-2b7a-4f5a-8c02-cf5a33aa5476",
+          "type": "SingleChoice",
+          "content": "What does CeFi stand for in the context of blockchain?",
+          "hint": "Nohint",
+          "explanation": "In the blockchain realm, CeFi stands for Centralized Exchanges, which act as intermediaries between traditional banks and enable users to purchase and store digital currencies.",
+          "answerKeys": [
+            "B"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Crypto-Finance",
+              "key": "A"
+            },
+            {
+              "content": "Centralized Exchanges",
+              "key": "B"
+            },
+            {
+              "content": "Customized Finance",
+              "key": "C"
+            },
+            {
+              "content": "Compliant Finance",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "3e3e26d3-d72f-4ecb-bd11-7a64f36b4e4e",
+          "type": "SingleChoice",
+          "content": "What is a notable advantage of centralized exchanges in terms of usability?",
+          "hint": "Nohint",
+          "explanation": "A notable advantage of centralized exchanges is their user-friendly interfaces, which are easy to use and understand, making them accessible to a wide range of users.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "User-friendly interface",
+              "key": "A"
+            },
+            {
+              "content": "Decentralized control",
+              "key": "B"
+            },
+            {
+              "content": "Anonymous transactions",
+              "key": "C"
+            },
+            {
+              "content": "No single point of failure",
+              "key": "D"
+            }
+          ]
+        },
+        {
+          "uuid": "53e82d9c-cb3d-48c2-aa77-1f6d943ce5f5",
+          "type": "SingleChoice",
+          "content": "What is a disadvantage of centralized exchanges regarding security?",
+          "hint": "Nohint",
+          "explanation": "Centralized exchanges are vulnerable to hacking and other security threats, which can result in the loss of users' assets. This is a significant disadvantage in terms of security.",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Security risks",
+              "key": "A"
+            },
+            {
+              "content": "Enhanced privacy",
+              "key": "B"
+            },
+            {
+              "content": "User-controlled private keys",
+              "key": "C"
+            },
+            {
+              "content": "Decentralized infrastructure",
+              "key": "D"
+            }
+          ]
         }
       ],
       "readings": [],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     }
-  ],
-  "priority": 80
+  ]
 }

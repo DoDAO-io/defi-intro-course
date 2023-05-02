@@ -38,8 +38,8 @@
     currencies, are often subject to inflation, which can erode the value of
     people's savings over time.
 - key: cefi
-  title: CeFi
-  shortTitle: CeFi
+  title: CeFi (Centralized Finance)
+  shortTitle: CeFi - Centralized
   details: >-
     In the blockchain realm, CeFi stands for Centralized Exchanges. These are
     typically the first stop for individuals who are new to the world of
@@ -84,8 +84,8 @@
     - Privacy concerns: CEXs often require users to provide personal
     information, which can be vulnerable to misuse or theft.
 - key: defi
-  title: DeFi
-  shortTitle: DeFi
+  title: DeFi - Decentralized Finance
+  shortTitle: DeFi - Decentralized
   details: >-
     ### Advantages
 

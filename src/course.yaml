@@ -49,7 +49,8 @@ topics:
       3. Modern Day Use cases
       4. Financial Infrastructure
       5. Integrated System
-    explanations: intoduction.yaml
+    explanations: introduction.yaml
+    questions: introduction.yaml
   - key: why-defi
     title: Why DeFi?
     details: |+
@@ -61,6 +62,7 @@ topics:
       5. DeFi is a Global Financial System
 
     explanations: why-defi.yaml
+    questions: why-defi.yaml
   - key: blockchain-intro
     title: Blockchain Intro
     details: >+
@@ -88,6 +90,7 @@ topics:
       5. Smart Contracts
 
     explanations: blockchain-intro.yaml
+    questions: blockchain-intro.yaml
   - key: tokens
     title: Tokens
     details: >+
@@ -97,6 +100,7 @@ topics:
       platform.
 
     explanations: tokens.yaml
+    questions: tokens.yaml
   - key: wallets
     title: Wallets
     details: >-
@@ -117,6 +121,7 @@ topics:
       The transactions on the blockchain are recorded on a public ledger, making
       it transparent and secure, and reducing the risk of fraud and hacking.
     explanations: wallets.yaml
+    questions: wallets.yaml
   - key: tradfi-vs-cefi-vs-defi
     title: TradFi vs CeFi vs DeFi
     details: >
@@ -136,6 +141,7 @@ topics:
       are computer codes that automatically execute based on predefined
       conditions.
     explanations: tradfi-vs-cefi-vs-defi.yaml
+    questions: tradfi-vs-cefi-vs-defi.yaml
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
 topicConfig:

@@ -1,0 +1,117 @@
+- uuid: 1a1a1b1b-2b2b-3b3b-4b4b-1a1a1b1b1b1b
+  type: SingleChoice
+  content: What are blockchain tokens?
+  hint: 'NoHint'
+  explanation: >-
+    Blockchain tokens are digital assets built on top of a blockchain platform. They are used as a unit of value and can represent assets such as property, stocks, or even virtual items within a game or platform.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Digital assets built on top of a blockchain platform used as a unit of value and to represent assets
+      key: A
+    - content: Unique codes used to secure blockchain transactions and protect user privacy
+      key: B
+    - content: Files that contain the code and rules for executing smart contracts on a blockchain network
+      key: C
+    - content: Digital representations of physical items, such as artwork or collectibles, stored on a blockchain
+      key: D
+
+- uuid: 2b2b2c2c-3c3c-4c4c-5c5c-2b2b2c2c2c2c
+  type: SingleChoice
+  content: Which of the following is NOT an advantage of using blockchain tokens?
+  hint: 'NoHint'
+  explanation: >-
+    Generating cryptographic hashes for blockchain transactions is not an advantage of using blockchain tokens. Blockchain tokens offer advantages such as decentralization, transparency, efficiency, programmability, and accessibility.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Decentralization
+      key: A
+    - content: Generating cryptographic hashes for blockchain transactions
+      key: B
+    - content: Efficiency
+      key: C
+    - content: Accessibility
+      key: D
+- uuid: 3c3c3d3d-4d4d-5d5d-6d6d-3c3c3d3d3d3d
+  type: SingleChoice
+  content: What is the purpose of the ERC-20 standard?
+  hint: 'NoHint'
+  explanation: >-
+    The ERC-20 standard defines a common set of rules for Ethereum tokens to follow, allowing developers to easily create and deploy new tokens on the Ethereum network. It ensures compatibility between tokens and makes it easier for developers to build applications that can interact with multiple types of tokens.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To encrypt data stored on the Ethereum blockchain
+      key: A
+    - content: To define a common set of rules for Ethereum tokens to follow
+      key: B
+    - content: To manage the supply of Ether, the native currency of the Ethereum network
+      key: C
+    - content: To establish a consensus mechanism for the Ethereum network
+      key: D
+
+- uuid: 4d4d4e4e-5e5e-6e6e-7e7e-4d4d4e4e4e4e
+  type: SingleChoice
+  content: Which of the following is NOT a common use for ERC-20 tokens?
+  hint: 'NoHint'
+  explanation: >-
+    A consensus mechanism for the Ethereum network is not a common use for ERC-20 tokens. Common uses for ERC-20 tokens include stablecoins, security tokens, utility tokens, decentralized finance (DeFi) applications, and gaming.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Stablecoins
+      key: A
+    - content: Security Tokens
+      key: B
+    - content: Consensus mechanism for the Ethereum network
+      key: C
+    - content: Decentralized finance (DeFi) applications
+      key: D
+- uuid: 5e5e5f5f-6f6f-7f7f-8f8f-5e5e5f5f5f5f
+  type: SingleChoice
+  content: What makes ERC-721 tokens unique compared to other ERC token types?
+  hint: 'NoHint'
+  explanation: >-
+    ERC-721 tokens are non-fungible tokens (NFTs), which means that each token is unique and cannot be replaced or divided into smaller units. They are commonly used for collectibles, such as virtual art and other digital assets.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: They are used for stablecoins
+      key: A
+    - content: Each token is unique and cannot be replaced or divided into smaller units
+      key: B
+    - content: They can create both fungible and non-fungible tokens within a single smart contract
+      key: C
+    - content: They are an improvement on the ERC-20 standard with improved security and efficiency
+      key: D
+
+- uuid: 6f6f6g6g-7g7g-8g8g-9g9g-6f6f6g6g6g6g
+  type: SingleChoice
+  content: What is the main advantage of the ERC-1155 token standard?
+  hint: 'NoHint'
+  explanation: >-
+    The main advantage of the ERC-1155 token standard is that it allows for the creation of both fungible and non-fungible tokens within a single smart contract. This makes it more efficient and cost-effective for developers to create and manage multiple types of tokens.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Each token is unique and cannot be replaced or divided into smaller units
+      key: A
+    - content: They are used for stablecoins
+      key: B
+    - content: Allows for the creation of both fungible and non-fungible tokens within a single smart contract
+      key: C
+    - content: They are an improvement on the ERC-20 standard with improved security and efficiency
+      key: D

@@ -1,0 +1,134 @@
+- uuid: 22c8ebf6-55a6-47f6-bccc-e6c9af65d11f
+  type: SingleChoice
+  content: What is the main principle behind the phrase "don't trust, verify" in the world of cryptocurrency?
+  hint: 'Nohint'
+  explanation: >-
+    The main principle behind the phrase "don't trust, verify" in the world of
+    cryptocurrency is that the public blockchain allows anyone to access and
+    query the data for decentralized finance (DeFi) projects, rather than
+    relying on trust in a centralized authority like traditional finance.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Relying on public data and transparency instead of trust in centralized authorities
+      key: A
+    - content: Trusting all parties in a transaction without verifying their information
+      key: B
+    - content: Trusting only verified institutions for transactions
+      key: C
+    - content: Verifying only the most recent transactions in a blockchain
+      key: D
+- uuid: 9acba1d2-3cda-42b6-8c92-851d6d0b6f13
+  type: SingleChoice
+  content: Which aspect of DeFi projects helped them fare relatively well compared to centralized exchanges during the 2022 cryptocurrency price plummet?
+  hint: 'Nohint'
+  explanation: >-
+    DeFi projects fared relatively well during the 2022 cryptocurrency price
+    plummet due to their transparent nature and the availability of information
+    on the public blockchain, which ensured that they continued to behave as
+    expected. Centralized exchanges, on the other hand, suffered losses and
+    bankruptcy due to their lack of transparency and data sharing.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Lower transaction fees
+      key: A
+    - content: Transparency and data availability on the public blockchain
+      key: B
+    - content: Higher liquidity
+      key: C
+    - content: Faster transaction processing times
+      key: D
+- uuid: 3f6e8d53-19f6-4b9f-9f76-17c24c0d21a4
+  type: SingleChoice
+  content: What is a unique aspect of the Nouns project in the crypto world?
+  hint: 'Nohint'
+  explanation: >-
+    A unique aspect of the Nouns project in the crypto world is that it creates
+    and auctions one new Noun NFT, a pixelated representation of a person, place,
+    or thing, every 24 hours using a trustless system. The entire auction
+    proceeds of each Noun are automatically transferred to the treasury, and
+    every owner of a Noun becomes a member of the Nouns DAO, entitled to one
+    vote in governance matters.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: It is the first decentralized exchange for NFTs
+      key: A
+    - content: It is a platform for artists to collaborate and receive payment based on views and quality
+      key: B
+    - content: It creates and auctions one new Noun NFT every 24 hours and grants owners DAO membership
+      key: C
+
+- uuid: 111d02d4-4b53-4f2b-83f4-9ac9c6a1a0d5
+  type: SingleChoice
+  content: Which cloud providers have accelerated the pace of development for internet-based companies?
+  hint: 'Nohint'
+  explanation: >-
+    Cloud providers such as Amazon Web Services, Google Cloud, and Microsoft
+    Azure have accelerated the pace of development for internet-based companies
+    by eliminating the need for founders to worry about acquiring computer
+    servers for website deployment.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Easy
+  choices:
+    - content: IBM Cloud, DigitalOcean, and Oracle Cloud
+      key: A
+    - content: Amazon Web Services, Google Cloud, and Microsoft Azure
+      key: B
+    - content: Cloudflare, Heroku, and Vultr
+      key: C
+    - content: Rackspace, Linode, and OVHcloud
+      key: D
+- uuid: 2d4c4f36-f0e1-4e4e-bf64-9ed0fd49fd51
+  type: SingleChoice
+  content: What is a key advantage of deploying code on blockchains?
+  hint: 'Nohint'
+  explanation: >-
+    A key advantage of deploying code on blockchains is the establishment of
+    trust and transparency, as all code deployed on blockchains is publicly
+    available, allowing anyone to scrutinize the code and identify any
+    malicious actors involved at the code level.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Increased security through proprietary algorithms
+      key: A
+    - content: Faster transaction processing times
+      key: B
+    - content: Establishing trust and transparency through publicly available code
+      key: C
+    - content: Greater control over user data
+      key: D
+- uuid: 0e121b9f-35d1-4a2e-92a0-2cfe7dc46fae
+  type: SingleChoice
+  content: What benefit does the open and collaborative environment in DeFi have compared to Traditional Finance?
+  hint: 'Nohint'
+  explanation: >-
+    The open and collaborative environment in DeFi results in a higher level of
+    innovation compared to Traditional Finance, as developers from different
+    projects can view each other's code and derive inspiration from it, leading
+    to more rapid advancements and improvements.
+  answerKeys:
+    - D
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Lower transaction fees for users
+      key: A
+    - content: Increased privacy for users
+      key: B
+    - content: More secure data storage solutions
+      key: C
+    - content: Higher level of innovation due to openness and collaboration
+      key: D

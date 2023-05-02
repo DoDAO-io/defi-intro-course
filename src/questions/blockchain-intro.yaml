@@ -1,0 +1,177 @@
+- uuid: 7a7a8a8a-1a1a-3a3a-9a9a-7a7a8a8a8a8a
+  type: SingleChoice
+  content: What is the main feature of a blockchain ledger?
+  hint: 'NoHint'
+  explanation: >-
+    The main feature of a blockchain ledger is that it is a decentralized, distributed digital ledger that records transactions securely and transparently without requiring a central authority.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: It is a centralized digital ledger that requires a central authority to operate
+      key: A
+    - content: It is a decentralized, distributed digital ledger that records transactions securely and transparently without a central authority
+      key: B
+    - content: It is a digital ledger that focuses only on cryptocurrency transactions
+      key: C
+    - content: It is a digital ledger that is only accessible to a limited number of users
+      key: D
+
+- uuid: 9b9b9a9a-2b2b-4b4b-8b8b-9b9b9a9a9a9a
+  type: SingleChoice
+  content: What is the role of nodes in a blockchain network?
+  hint: 'NoHint'
+  explanation: >-
+    Nodes in a blockchain network validate transactions using algorithms built into the blockchain protocol and maintain a copy of the entire blockchain. They also participate in the consensus process to ensure the ledger is consistent and tamper-proof.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Nodes are responsible for initiating transactions on the blockchain
+      key: A
+    - content: Nodes are responsible for providing a central authority to manage the blockchain
+      key: B
+    - content: Nodes validate transactions, maintain a copy of the blockchain, and participate in the consensus process
+      key: C
+    - content: Nodes are only responsible for storing a copy of the blockchain for backup purposes
+      key: D
+
+- uuid: 6c6c6b6b-3c3c-4c4c-8c8c-6c6c6b6b6b6b
+  type: SingleChoice
+  content: How does a blockchain ensure its ledger is consistent and tamper-proof?
+  hint: 'NoHint'
+  explanation: >-
+    A blockchain ensures its ledger is consistent and tamper-proof by requiring all nodes to reach consensus on the state of the ledger before any new block can be added. This makes it highly unlikely for any attempt to alter a block to succeed, as it would require a majority of nodes to agree to the change.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: By requiring all nodes to reach consensus on the state of the ledger before any new block can be added
+      key: A
+    - content: By relying on a central authority to validate and approve all changes to the ledger
+      key: B
+    - content: By allowing only a limited number of users to access and modify the ledger
+      key: C
+    - content: By using a private blockchain that is only accessible to a select group of trusted users
+      key: D
+- uuid: 1d1d1e1e-4e4e-5e5e-8e8e-1d1d1e1e1e1e
+  type: SingleChoice
+  content: What is the main purpose of hashing in blockchain technology?
+  hint: 'NoHint'
+  explanation: >-
+    The main purpose of hashing in blockchain technology is to ensure the integrity and security of the data stored in the blockchain by creating a chain of hashes that reference each other and can detect any changes to the data.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: To protect the identity of the individuals behind the addresses on the blockchain
+      key: A
+    - content: To ensure the integrity and security of the data stored in the blockchain
+      key: B
+    - content: To create a centralized authority for managing the blockchain network
+      key: C
+    - content: To enable faster and more efficient transactions on the blockchain
+      key: D
+
+- uuid: 2e2e2f2f-5f5f-6f6f-8f8f-2e2e2f2f2f2f
+  type: SingleChoice
+  content: What is a key step in a typical transaction on a blockchain?
+  hint: 'NoHint'
+  explanation: >-
+    A key step in a typical transaction on a blockchain is the sender creating a new transaction with the details of the recipient, the amount to be transferred, and the sender's private key to sign the transaction.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: The sender creates a new transaction with the recipient's details, the amount to be transferred, and the sender's private key to sign the transaction
+      key: A
+    - content: The sender sends the transaction directly to the recipient, bypassing the blockchain network
+      key: B
+    - content: The sender and recipient negotiate the transaction terms privately before committing it to the blockchain
+      key: C
+    - content: The sender requests permission from a central authority to initiate the transaction
+      key: D
+
+- uuid: 3f3f3g3g-6g6g-7g7g-8g8g-3f3f3g3g3g3g
+  type: SingleChoice
+  content: In a public blockchain network like Bitcoin, what aspect of transactions is transparent?
+  hint: 'NoHint'
+  explanation: >-
+    In a public blockchain network like Bitcoin, transactions are transparent and can be seen by anyone. However, the identity of the individuals behind the addresses remains anonymous, as only the address is recorded on the blockchain.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: The transactions are transparent and can be seen by anyone
+      key: A
+    - content: The identity of the individuals behind the addresses is transparent and can be seen by anyone
+      key: B
+    - content: The private keys of the sender and recipient are transparent and can be seen by anyone
+      key: C
+    - content: The negotiation process between the sender and recipient is transparent and can be seen by anyone
+      key: D
+- uuid: 4g4g4h4h-7h7h-8h8h-9h9h-4g4g4h4h4h4h
+  type: SingleChoice
+  content: What is a smart contract?
+  hint: 'NoHint'
+  explanation: >-
+    A smart contract is a self-executing contract with the terms of the agreement directly written into code. They are a fundamental building block of blockchain technology and are used to automate the process of executing the terms of a contract when certain conditions are met.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: A legal document that outlines the terms and conditions of a business arrangement
+      key: A
+    - content: A self-executing contract with the terms of the agreement directly written into code
+      key: B
+    - content: A digital certificate used to authenticate the identity of a user on a blockchain network
+      key: C
+    - content: A private key used to sign and authorize transactions on a blockchain network
+      key: D
+
+- uuid: 5h5h5i5i-8i8i-9i9i-0j0j-5h5h5i5i5i5i
+  type: SingleChoice
+  content: How do smart contracts operate on the blockchain?
+  hint: 'NoHint'
+  explanation: >-
+    Smart contracts are stored on the blockchain and are executed automatically by the network. They are transparent, secure, and tamper-proof, as the code and terms of the contract are visible to everyone on the network.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Stored on the blockchain and executed automatically by the network, with code and terms visible to everyone
+      key: A
+    - content: Stored in a centralized database and executed by a designated authority
+      key: B
+    - content: Kept secret between the parties involved in the contract, with only the results visible on the network
+      key: C
+    - content: Operate outside of the blockchain network, with transactions only recorded after the contract is executed
+      key: D
+
+- uuid: 6i6i6j6j-9j9j-0k0k-1l1l-6i6i6j6j6j6j
+  type: SingleChoice
+  content: Which of the following processes can be automated using smart contracts?
+  hint: 'NoHint'
+  explanation: >-
+    Smart contracts can be used to automate various processes, such as transferring funds between parties when certain conditions are met, managing the ownership of assets, automating the process of voting, and enforcing the terms of an agreement.
+  answerKeys:
+    - D
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Creating new cryptocurrencies
+      key: A
+    - content: Generating cryptographic hashes for blockchain transactions
+      key: B
+    - content: Mining new blocks for a blockchain network
+      key: C
+    - content: Transferring funds when conditions are met, managing asset ownership, automating voting, and enforcing agreement terms
+      key: D

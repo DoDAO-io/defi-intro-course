@@ -1,0 +1,236 @@
+- uuid: 7f83a206-8292-4d3d-b3ad-5534a0a4a9a0
+  type: SingleChoice
+  content: What does DeFi stand for in the context of blockchain technology?
+  hint: 'NoHint'
+  explanation: >-
+    DeFi stands for Decentralized Finance, which refers to a new breed of financial applications built on the blockchain that operate autonomously without human intervention.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Decentralized Finance
+      key: A
+    - content: Digital Finance
+      key: B
+    - content: Decentralized Funding
+      key: C
+    - content: Direct Finance
+      key: D
+
+- uuid: c5f5b4c4-4d53-4c1d-a4ad-8b4d88f1a366
+  type: SingleChoice
+  content: How are trades facilitated in DeFi applications?
+  hint: 'NoHint'
+  explanation: >-
+    In DeFi applications, trades are facilitated by smart contracts that execute automatically based on predetermined conditions.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Through manual human intervention
+      key: A
+    - content: By smart contracts that execute automatically based on predetermined conditions
+      key: B
+    - content: Through centralized exchanges
+      key: C
+    - content: By direct communication between trading parties
+      key: D
+
+- uuid: 3d2f857b-f3e6-4b6d-93b5-372204f25cb1
+  type: SingleChoice
+  content: What are some use cases of DeFi applications beyond trading?
+  hint: 'NoHint'
+  explanation: >-
+    DeFi applications extend to all aspects of finance, including autonomous lending and borrowing, insurance, investing in startups, new fundraising methods, community buying of patents, and crowdfunding public good projects.
+  answerKeys:
+    - D
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Gaming and entertainment
+      key: A
+    - content: Supply chain management
+      key: B
+    - content: Social media platforms
+      key: C
+    - content: Autonomous lending and borrowing, insurance, investing in startups, new fundraising methods, community buying of patents, and crowdfunding public good projects
+      key: D
+- uuid: 6b50c6d5-cc57-4f47-9a9d-6f21e833f5d5
+  type: SingleChoice
+  content: What is a significant drawback of centralized financial systems?
+  hint: 'NoHint'
+  explanation: >-
+    In centralized financial systems, transparency is typically lacking, with crucial information often remaining inaccessible to the public.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: They are highly transparent
+      key: A
+    - content: They often lack transparency
+      key: B
+    - content: They are highly flexible
+      key: C
+    - content: They have no single point of failure
+      key: D
+
+- uuid: 1f3e3a48-38a9-4b29-a2f8-0a2a7de78f20
+  type: SingleChoice
+  content: What are the key properties of decentralized systems?
+  hint: 'NoHint'
+  explanation: >-
+    Key properties of decentralized systems include distributed control, trustlessness, transparency, flexibility, and resilience.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Centralized control, trust-based, opaque, rigid, and vulnerable
+      key: A
+    - content: Centralized control, trustless, transparent, flexible, and resilient
+      key: B
+    - content: Distributed control, trustlessness, transparency, flexibility, and resilience
+      key: C
+    - content: Distributed control, trust-based, opaque, rigid, and vulnerable
+      key: D
+
+- uuid: 7a6368e4-4a4d-4d91-9da9-bb1c516b0340
+  type: SingleChoice
+  content: How is trust achieved in a decentralized system?
+  hint: 'NoHint'
+  explanation: >-
+    In a decentralized system, trust is achieved through the use of cryptographic algorithms that ensure that transactions are valid and secure, even if the parties involved are unknown or untrusted.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Through centralized authorities verifying transactions
+      key: A
+    - content: Through cryptographic algorithms that ensure transactions are valid and secure
+      key: B
+    - content: By relying on the reputation of participants in the network
+      key: C
+    - content: Through a single point of control and validation
+      key: D
+- uuid: 0e89b5f5-5ca5-4d5e-8de1-6f1c6bceac9d
+  type: SingleChoice
+  content: Why do many developed countries prefer democratic systems over communist systems?
+  hint: 'NoHint'
+  explanation: >-
+    Developed countries prefer democratic systems because, despite the potential for greater efficiency and speed in a communist government, democratic systems offer more freedom, individual rights, and transparency.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Democratic systems offer more freedom, individual rights, and transparency
+      key: A
+    - content: Democratic systems are always more efficient and faster
+      key: B
+    - content: Democratic systems have no drawbacks
+      key: C
+    - content: Communist systems lack economic stability
+      key: D
+
+- uuid: 7e0a1a96-2bb2-4ea3-8f3d-cdd6027af6c9
+  type: SingleChoice
+  content: What is one reason why decentralization is important in financial systems?
+  hint: 'NoHint'
+  explanation: >-
+    Decentralization is important in financial systems because it promotes transparency, which can facilitate the identification and elimination of flawed and inefficient systems.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: It guarantees the best economic outcomes
+      key: A
+    - content: It promotes transparency, facilitating the identification and elimination of flawed and inefficient systems
+      key: B
+    - content: It ensures that all participants have equal control and influence
+      key: C
+    - content: It prevents any form of corruption or fraud
+      key: D
+
+- uuid: 9aa0fdd9-430f-4e0e-9a8b-7e588f6c31f7
+  type: SingleChoice
+  content: What is a potential issue with banks operating on a fractional reserve system?
+  hint: 'NoHint'
+  explanation: >-
+    A potential issue with banks operating on a fractional reserve system is that it can trigger a "bank run" if a large number of customers attempt to withdraw their savings on the same day, potentially resulting in the bank going bankrupt.
+  answerKeys:
+    - C
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Banks always invest the deposited money wisely
+      key: A
+    - content: Banks can never go bankrupt
+      key: B
+    - content: It can trigger a "bank run" and potentially result in the bank going bankrupt
+      key: C
+    - content: Customers have full control over their deposited money
+      key: D
+- uuid: 648e9277-dbd1-45f1-bfea-ff2f11440947
+  type: SingleChoice
+  content: What mechanism does Bitcoin use to achieve consensus and validate transactions?
+  hint: 'NoHint'
+  explanation: >-
+    Bitcoin uses a proof-of-work consensus mechanism to achieve consensus and validate transactions on its network.
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Proof-of-work consensus mechanism
+      key: A
+    - content: Proof-of-stake consensus mechanism
+      key: B
+    - content: Delegated proof-of-stake consensus mechanism
+      key: C
+    - content: Federated Byzantine Agreement
+      key: D
+
+- uuid: 5c5f5b5d-15c4-4b4e-93b4-d48d9f0b363f
+  type: SingleChoice
+  content: What is a smart contract and what kind of blockchain allows for their use?
+  hint: 'NoHint'
+  explanation: >-
+    A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. Ethereum is a blockchain that allows for the use of smart contracts.
+  answerKeys:
+    - B
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: A smart contract is a legal agreement between two parties, and Bitcoin allows for their use
+      key: A
+    - content: A smart contract is a self-executing contract encoded in code, and Ethereum allows for their use
+      key: B
+    - content: A smart contract is a digital signature, and Ripple allows for their use
+      key: C
+    - content: A smart contract is a digital currency, and Cardano allows for their use
+      key: D
+
+- uuid: 5a5a5b5a-2a2a-4a4a-8a4a-5a5a5b5a5b5a
+  type: SingleChoice
+  content: What is the primary characteristic of DeFi applications?
+  hint: 'NoHint'
+  explanation: >-
+    The primary characteristic of DeFi applications is that they run on top of blockchain using smart contracts, with no human intermediaries involved.
+  answerKeys:
+    - D
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: DeFi applications are only focused on cryptocurrency trading
+      key: A
+    - content: DeFi applications are centralized financial services
+      key: B
+    - content: DeFi applications are primarily for institutional investors
+      key: C
+    - content: DeFi applications run on blockchain using smart contracts without human intermediaries
+      key: D

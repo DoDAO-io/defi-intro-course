@@ -1,0 +1,54 @@
+## Header
+This is the course header. This will be added on top of every page. Go to [DoDAO.io](https://www.dodao.io) to know more.
+
+ ---
+ 
+ ## TradFi vs CeFi vs DeFi
+ 
+ **TradFi**        
+TradFi, or Traditional Finance, refers to the financial system that has existed for many years and is centered around traditional financial institutions such as banks, stock exchanges, insurance companies, and others.
+
+### Advantages
+Advantages of TradFi include:
+- Established history: TradFi has a long and rich history and has been in existence for many decades, which instills a sense of trust and reliability.
+- Proven systems: The systems and processes used in TradFi have been tried and tested over time and have proven to be effective.
+- Wide range of options: TradFi offers a wide range of financial products and services in one place, providing consumers with many options to choose from.
+
+### Disadvantages
+Disadvantages of TradFi include:
+- High fees: Some financial products and services offered by TradFi institutions may incur high and unnecessary fees, which can add up over time.
+- Slow transactions: Transactions within the TradFi system can be slow and cumbersome, taking several days to complete.
+- Inflationary currencies: The currencies used in TradFi, such as fiat currencies, are often subject to inflation, which can erode the value of people's savings over time. 
+ **CeFi (Centralized Finance)**        
+In the blockchain realm, CeFi stands for Centralized Exchanges. These are typically the first stop for individuals who are new to the world of cryptocurrency. They act as intermediaries between traditional banks and enable users to purchase and store digital currencies. However, it's crucial to remember that these centralized exchanges retain control over the private keys of their users' accounts. Sadly, many of these exchanges went bankrupt in 2022, resulting in the loss of funds for their users.
+
+
+### Advantages of centralized exchanges include:
+
+- User-friendly interface: CEXs often have user-friendly interfaces that are easy to use and understand, making them accessible to a wide range of users.
+- High liquidity: CEXs typically have high liquidity, meaning that users can buy and sell cryptocurrencies quickly and easily.
+- Wide range of cryptocurrencies: CEXs often offer a wide range of cryptocurrencies, making it easy for users to find the assets they are looking for.
+- Customer support: CEXs often have dedicated customer support teams that are available to help users with any issues or questions they may have.
+
+### Disadvantages of centralized exchanges include:
+- Security risks: Centralized exchanges are vulnerable to hacking and other security threats, which can result in the loss of users' assets.
+- Single point of failure: Since CEXs are controlled by a single entity, they represent a single point of failure, meaning that if the exchange fails, users may lose access to their assets.
+- Lack of control: Users do not have direct control over their assets when they are stored on a centralized exchange, as they are stored on the exchange's servers.
+- Privacy concerns: CEXs often require users to provide personal information, which can be vulnerable to misuse or theft. 
+ **DeFi - Decentralized Finance**        
+### Advantages
+Advantages of DeFi over traditional finance:
+- Decentralization: DeFi operates on decentralized blockchain networks, meaning there is no need for intermediaries such as banks or financial institutions. This reduces the risk of centralized points of failure and increases transparency and security.
+- Accessibility: DeFi is accessible to anyone with an internet connection, making financial services available to individuals who might not have access to traditional banking services.
+- Lower barriers to entry: DeFi allows anyone to participate in financial services, regardless of their location or financial history.
+- Censorship-resistant: DeFi operates on decentralized networks, which are resistant to censorship or interference from governments or other entities.
+- Programmable money: DeFi provides the ability to program money and automate financial transactions, enabling new and innovative use cases.
+
+### Disadvantages
+Disadvantages of DeFi over traditional finance:
+- Lack of regulation: DeFi operates in an unregulated environment, which can make it more vulnerable to scams and fraud.
+- Technical complexity: DeFi requires a strong understanding of blockchain technology and can be difficult for the average person to use.
+- Liquidity: Some DeFi protocols and markets are not yet as liquid as traditional financial markets, which can result in higher volatility and price swings.
+- Limited scalability: The scalability of DeFi is limited by the underlying blockchain technology, which can result in slower transaction times and higher fees.
+- Security concerns: DeFi operates in a relatively new and untested environment, which raises concerns about the security of funds and the potential for hacking or theft. 
+ 
